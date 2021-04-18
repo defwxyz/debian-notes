@@ -62,5 +62,12 @@ $ hp-makeuri 192.168.0.xxx
 $ sudo apt install xsane 
 $ xsane "hpaio:/net/HP_LaserJet_Pro?ip=192.168.0.xxx"
 ```
+### radio
 
+Sous Rhythmbox, Radio, Ajouter: 
+
+http://icecast.radiofrance.fr/franceinter-hifi.aac
+
+Puis ajuster les propriétés pour donner un nom idoine.
+http://icecast.radiofrance.fr
 
