@@ -69,5 +69,7 @@ Sous Rhythmbox, Radio, Ajouter:
 http://icecast.radiofrance.fr/franceinter-hifi.aac
 
 Puis ajuster les propriétés pour donner un nom idoine.
-http://icecast.radiofrance.fr
+
+On trouve les URLs à l'url suivante: https://doc.ubuntu-fr.org/liste_radio_france
+
 
