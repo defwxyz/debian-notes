@@ -14,6 +14,7 @@ Commande pour créer une clef usb bootable:
 
 
 Après l'installation de l'environnement cinnamon, ctrl-alt-F4 pour se connecter sur une console en mode texte.
+Le premier démarrage montre un écran noir car il n'y a pas le driver de la carte graphique.
 
 ### sudoers.d
 
@@ -43,7 +44,9 @@ Et après `sudo apt-get update`, installation des drivers:
 
 ```
 sudo apt install firmware-amd-graphics
+sudo reboot
 ```
+
 ### Cinnamon
 
 Pour ajouter des icônes sur le bureau, aller dans le "Menu" puis cliquer sur une application et faire un clic droit et choisir "Ajouter au bureau"
