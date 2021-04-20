@@ -2,15 +2,15 @@
 
 ### Installation de debian 10.9
 
-Télécharger l'image iso de debian et vérification de la somme de contrôle:
+Télécharger l'image iso de [debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/) et vérification de la somme de contrôle:
 
 ```
-sha256sum debian...iso
+sha256sum debian-10.9.0-amd64-DVD-1.iso 
 ```
 
 Commande pour créer une clef usb bootable:
 
-`dd if=debian...iso of=/dev/sd??? bs=32M`
+`dd if=debian-10.9.0-amd64-DVD-1.iso of=/dev/sd??? bs=32M`
 
 
 Après l'installation de l'environnement cinnamon, ctrl-alt-F4 pour se connecter sur une console en mode texte.
