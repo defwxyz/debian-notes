@@ -1,3 +1,3 @@
 # notes
 
-[debian](debian.md)
+[debian](debian.md) * [haskell](haskell.md)
