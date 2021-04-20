@@ -6,6 +6,7 @@ Télécharger l'image iso de [debian](https://cdimage.debian.org/debian-cd/curre
 
 ```
 sha256sum debian-10.9.0-amd64-DVD-1.iso 
+c92da2e33afe9c248a9396b8849d9f626b337676f81fd28e7b48f83492fd23fd  debian-10.9.0-amd64-DVD-1.iso
 ```
 
 Commande pour créer une clef usb bootable:
@@ -62,7 +63,7 @@ $ hp-makeuri 192.168.0.xxx
 $ sudo apt install xsane 
 $ xsane "hpaio:/net/HP_LaserJet_Pro?ip=192.168.0.xxx"
 ```
-### radio
+#### radio
 
 Sous Rhythmbox, Radio, Ajouter: 
 
@@ -71,5 +72,15 @@ http://icecast.radiofrance.fr/franceinter-hifi.aac
 Puis ajuster les propriétés pour donner un nom idoine.
 
 On trouve les URLs à l'url suivante: https://doc.ubuntu-fr.org/liste_radio_france
+
+### packages
+
+
+```
+# Lister les packages installer via la commande: 
+sudo dpkg-query -l --no-pager
+# Installer un package
+sudo apt install vim-gtk3
+```
 
 
