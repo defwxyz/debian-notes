@@ -77,7 +77,7 @@ On trouve les URLs à l'url suivante: https://doc.ubuntu-fr.org/liste_radio_fran
 
 
 ```
-# Lister les packages installer via la commande: 
+# Lister les packages installés via la commande: 
 sudo dpkg-query -l --no-pager
 # Installer un package
 sudo apt install vim-gtk3
