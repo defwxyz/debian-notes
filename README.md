@@ -1,0 +1,3 @@
+# notes
+
+[debian](debian.md)
