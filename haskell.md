@@ -34,5 +34,13 @@ J'ai [ajouté le programme](src/haskell/random-picture) pour créer des images a
 Cette image est
 ![image](./picture001.png) générée par le programme haskell random-picture
 
+Pour convertir l'image svg en png, j'utilise `rsvg-convert` :
+
+```
+sudo apt install librsvg2-bin
+rsvg-convert picture001.svg > picture001.png
+```
+
+
 
 
