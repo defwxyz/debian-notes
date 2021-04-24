@@ -29,5 +29,9 @@ Sur [la page wikipedia du langage Haskell](https://fr.wikipedia.org/wiki/Haskell
 
 Une [liste des emplois en France où on fait référence au langage](https://fr.indeed.com/emplois?q=Haskell&l=France) : 25 entrées le 20 avril 2021 et si on regarde bien, aucune entrée ne concerne Haskell en particulier. 
 
+J'ai ajouté le programme d'image aléatoire qui me sert pour apprendre le langage haskell. 
+
+[[picture001.png|image générée par le programme haskell random-picture]]
+
 
 
