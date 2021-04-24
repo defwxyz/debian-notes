@@ -1,9 +1,28 @@
 ## Notes à propos du langage Haskell
 
-Comment installer le langage sous debian linux
+Comment installer le langage sous debian linux.
+
+Lisez la page https://docs.haskellstack.org/en/stable/README/
+
+Et suivez les instructions: 
 
 ```
-sudo apt install haskell-platform haskell-platform-doc
+wget -qO- https://get.haskellstack.org/ | sh
+stack new my-project
+cd my-project
+stack setup
+stack build
+stack exec my-project-exe
+```
+
+Si vous rencontrez un problème de PATH et que le fichier .profile n'est pas lu (alors qu'il devrait l'être), peut-être que vous êtes dans un cas similaire à ce lui que j'ai eu. Je l'ai résolu en ajoutant le fichier .xsessionrc avec ce contenu:
+
+```
+$ cat .xsessionrc 
+# .xsessionrc is evaluated once at display manager startup
+if [ -f "${HOME}/.profile" ]; then # if and only if .profile exists
+    . "${HOME}/.profile"
+fi
 ```
 
 Sur [la page wikipedia du langage Haskell](https://fr.wikipedia.org/wiki/Haskell) on apprend qu'il y a un [site officiel](https://www.haskell.org).
