@@ -1,7 +1,7 @@
 module LibRender (
     render,
     renderAlea,
-    quote 
+    quote
 ) where
 
 import System.Environment
@@ -39,6 +39,14 @@ render s (FigureEllipse (Ellipse (Point cx cy) w h)) =
          ++ " ry=" ++ (quote h)
          ++ " fill=" ++ (quoteColor (styleColor s))
          ++ " />"
-   
-render _ _ = ""
+render s (FigureLine (Line (Point x1 y1) (Point x2 y2))) =
+    "<line x1=" ++ (quote x1)
+         ++ " y1=" ++ (quote y1)
+         ++ " x2=" ++ (quote x2)
+         ++ " y2=" ++ (quote y2)
+         ++ " stroke-width=" ++ (quote (styleThickness s))
+         ++ " stroke=" ++ (quoteColor (styleColor s))
+         ++ " />"
+
+-- render _ _ = ""
 

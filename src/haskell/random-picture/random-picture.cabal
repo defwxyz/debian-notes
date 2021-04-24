@@ -27,11 +27,12 @@ source-repository head
 
 library
   exposed-modules:
-      LibDataTypes
       LibAlea
       LibRender
-      SvgStyle
   other-modules:
+      LibDataTypes
+      SvgStyle
+      SvgColor
   hs-source-dirs:
       src
   build-depends:

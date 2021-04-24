@@ -42,7 +42,7 @@ rsvg-convert picture001.svg > picture001.png
 ```
 
 Cette image est
-![image](./picture002.png) générée aussi par le programme haskell random-picture
+![image](./picture003.png) générée aussi par le programme haskell random-picture
 
 
 
