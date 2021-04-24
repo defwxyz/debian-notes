@@ -28,10 +28,8 @@ source-repository head
 library
   exposed-modules:
       LibDataTypes
-      LibSvg
-      SvgColor
+      SvgStyle
   other-modules:
-      Paths_random_picture
   hs-source-dirs:
       src
   build-depends:
@@ -42,7 +40,6 @@ library
 executable random-picture-exe
   main-is: Main.hs
   other-modules:
-      Paths_random_picture
   hs-source-dirs:
       app
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
@@ -56,7 +53,6 @@ test-suite random-picture-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
-      Paths_random_picture
   hs-source-dirs:
       test
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
