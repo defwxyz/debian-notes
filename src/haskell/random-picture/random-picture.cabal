@@ -28,6 +28,8 @@ source-repository head
 library
   exposed-modules:
       LibDataTypes
+      LibAlea
+      LibRender
       SvgStyle
   other-modules:
   hs-source-dirs:
