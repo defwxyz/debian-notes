@@ -31,11 +31,17 @@ svgBody geometry howMany = do
 program = do 
     args <- getArgs
     let g = (read (args !! 0)) :: Geometry
-    content <- svgBody g 4000
+    let nb = (read (args !! 1)) :: Int 
+    content <- svgBody g nb 
     let svgScript = (svgHeader g) ++ content ++ svgFooter
     putStrLn svgScript 
 
-usage = "Usage:\n  random-picture-exe geometry\n  geometry must follow width x height format\n\nExample:\n  random-picture-exe 640x480\n"
+usage = "Usage:\n\
+        \  random-picture-exe geometry nb\n\
+        \  geometry must follow width x height format\n\
+        \  nb is the number of shapes\n\n\
+        \Example:\n\
+        \  random-picture-exe 640x480 4000\n"
 
 main = catch (program) handler
     where 
