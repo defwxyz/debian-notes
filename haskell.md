@@ -8,11 +8,11 @@ Et suivez les instructions:
 
 ```
 wget -qO- https://get.haskellstack.org/ | sh
-stack new my-project
-cd my-project
+stack new random-picture
+cd random-picture
 stack setup
 stack build
-stack exec my-project-exe
+stack exec random-picture-exe
 ```
 
 Si vous rencontrez un problème de PATH et que le fichier .profile n'est pas lu (alors qu'il devrait l'être), peut-être que vous êtes dans un cas similaire à ce lui que j'ai eu. Je l'ai résolu en ajoutant le fichier .xsessionrc avec ce contenu:
