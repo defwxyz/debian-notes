@@ -32,7 +32,7 @@ Une [liste des emplois en France où on fait référence au langage](https://fr.
 J'ai [ajouté le programme](src/haskell/random-picture) pour créer des images aléatoires qui me sert pour apprendre le langage haskell. 
 
 Cette image est
-![image](./picture001.png) générée par le programme haskell random-picture
+![image](./picture001.svg) générée par le programme haskell random-picture
 
 Pour convertir l'image svg en png, j'utilise `rsvg-convert` :
 
