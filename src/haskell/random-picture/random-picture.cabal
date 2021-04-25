@@ -27,6 +27,7 @@ source-repository head
 
 library
   exposed-modules:
+      LibGeometry
       LibAlea
       LibRender
   other-modules:
@@ -38,6 +39,7 @@ library
   build-depends:
       base >=4.7 && <5
     , random >= 1.1
+    , split
   default-language: Haskell2010
 
 executable random-picture-exe
@@ -49,6 +51,7 @@ executable random-picture-exe
   build-depends:
       base >=4.7 && <5
     , random >= 1.1
+    , split
     , random-picture
   default-language: Haskell2010
 

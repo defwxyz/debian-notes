@@ -7,74 +7,74 @@ import System.Random
 import Control.Monad
 
 import LibDataTypes
+import LibGeometry
 
--- construct an array of random Rectangles
-
-randomPoint :: (Int, Int) -> IO Point
-randomPoint (maxWidth, maxHeight) = do
+randomPoint :: Geometry -> IO Point
+randomPoint (Geometry maxWidth maxHeight) = do
     x <- randomRIO(0,maxWidth) :: IO Int
     y <- randomRIO(0,maxHeight) :: IO Int
     return (Point x y)
 
-randomRectangle :: (Int, Int) -> (Int, Int) -> IO Rectangle
-randomRectangle (screenWidth, screenHeight) (maxWidth, maxHeight) = do
-    p <- randomPoint (screenWidth, screenHeight)
+randomRectangle :: Geometry -> (Int, Int) -> IO Rectangle
+randomRectangle g (maxWidth, maxHeight) = do
+    p <- randomPoint g 
     w <- randomRIO(0,maxWidth) :: IO Int
     h <- randomRIO(0,maxHeight) :: IO Int
     return (Rectangle p w h)
 
-randomRectangleSimple :: (Int, Int) -> IO Rectangle
-randomRectangleSimple (w, h) = 
-    randomRectangle (w,h) (w,h)
+randomRectangleSimple :: Geometry -> IO Rectangle
+randomRectangleSimple (Geometry w h) = 
+    randomRectangle (Geometry w h) (w,h)
 
-randomRectangleAlea :: (Int, Int) -> IO Rectangle
-randomRectangleAlea (w, h) = do
+randomRectangleAlea :: Geometry -> IO Rectangle
+randomRectangleAlea (Geometry w h) = do
     aleaW <- randomRIO(1,(w-1)) :: IO Int
     aleaH <- randomRIO(1,(h-1)) :: IO Int
-    randomRectangle (w,h) (aleaW,aleaH)
+    randomRectangle (Geometry w h) (aleaW,aleaH)
 
 
-randomCircle :: (Int, Int) -> Int -> IO Circle
+randomCircle :: Geometry -> Int -> IO Circle
 randomCircle geometry maxRadius = do
     p <- randomPoint geometry
     r <- randomRIO(1,maxRadius)
     return (Circle p r)
 
-randomEllipse :: (Int, Int) -> Int -> Int -> IO Ellipse
+randomEllipse :: Geometry -> Int -> Int -> IO Ellipse
 randomEllipse geometry w h = do
     p <- randomPoint geometry
     x <- randomRIO(1,w) :: IO Int
     y <- randomRIO(1,h) :: IO Int
     return (Ellipse p x y)
 
-randomLine :: (Int, Int) -> IO Line
-randomLine geometry = do
+randomLine :: Geometry -> Int -> IO Line
+randomLine geometry size = do
     p <- randomPoint geometry
-    q <- (jump p)
+    q <- (jump p size)
     return (Line p q) 
 
-jump :: Point -> IO Point
-jump p = do
-    dp <- randomPoint (100,100) 
-    return (Point ((x p) + (x dp) - 50) ((y p) + (y dp) - 50))
+jump :: Point -> Int -> IO Point
+jump p size = do
+    let doublesize = 2 * size
+    dp <- randomPoint (Geometry doublesize doublesize) 
+    return (Point ((x p) + (x dp) - size) ((y p) + (y dp) - size))
     
-randomFigure :: (Int, Int) -> IO Figure
-randomFigure geometry = do
+randomFigure :: Geometry -> Int -> IO Figure
+randomFigure geometry size = do
     dice <- randomRIO(0,3) :: IO Int
-    randomFigureDispatch dice geometry
+    randomFigureDispatch dice geometry size 
 
 
-randomFigureDispatch x geometry 
+randomFigureDispatch x geometry size
     | (x == 0) = do
-      f <- randomRectangle geometry (20,20)
+      f <- randomRectangle geometry (size,size)
       return (FigureRectangle f)
     | (x == 1) = do
-      g <- randomEllipse geometry 20 20
+      g <- randomEllipse geometry size size 
       return (FigureEllipse g)
     | (x == 2) = do
-      h <- randomLine geometry 
+      h <- randomLine geometry size 
       return (FigureLine h)
     | otherwise = do
-      i <- randomCircle geometry 20
+      i <- randomCircle geometry size
       return (FigureCircle i)
 

@@ -1,5 +1,5 @@
 module LibDataTypes (
-    Ellipse(..)
+   Ellipse(..)
    ,Figure(..)
    ,Point(..)
    ,Rectangle(..)
@@ -9,6 +9,7 @@ module LibDataTypes (
 
 import SvgColor (Color)
 import Data.Ord
+
  
 data Point = Point {
     x :: Int
