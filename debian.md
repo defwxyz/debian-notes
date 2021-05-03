@@ -24,7 +24,7 @@ Ajout d'un fichier myuser dans `/etc/sudoers.d`
 Contenant une ligne 
 
 ```
-myuser ALL=(ALL:ALL) NOPASSWD:ALL:
+myuser ALL=(ALL:ALL) NOPASSWD:ALL
 ```
 
 ### drivers
