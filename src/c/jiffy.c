@@ -3,38 +3,36 @@
 #include <time.h>
 #include <limits.h>
 
-void waitfornext() {
-	long start = (long) time(NULL);
-        while ((long) time(NULL) == start) ;
+long jiffy(long start) {
+    long k = 0;
+    while ((long) time(NULL) == start) k++;
+    return k;
 }
 
-long jiffy() {
-    long loops_per_jiffy = 1;
-    while (1) {
-	long start = (long) time(NULL);
-	long k;
-        for (k=0; k < loops_per_jiffy; k++) ;
-	long stop = (long) time(NULL);
- 	if (stop - start > 0) break;
-	loops_per_jiffy++;	
-    }
-    return loops_per_jiffy;
+float average(long measures[]) {
+   double sum = 0;
+   for (int k=0; k<4; k++) {
+       sum += measures[k];
+   }
+   return (sum / 4.0);
 }
-
+  
 int main(void)
 {
+	long measures[4];
+
 	long min = LONG_MAX; 
 	int k=0;
 	int kmax=4;
-
+	long start = (long) time(NULL);
+	jiffy(start); // calibrate
 	while (k < kmax) {
-		waitfornext();
-		long j = jiffy();
-		if (j < min) 
-			min = j;
+	        start = (long) time(NULL);
+		measures[k] = jiffy(start);
 		k++;
 	}
-	float result =  min / 500.0;
+
+	float result =  average(measures) / 500;
 	printf("ok - %.2f BogoMIPS\n", result);
 }
 

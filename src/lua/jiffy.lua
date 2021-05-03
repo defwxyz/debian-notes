@@ -1,33 +1,30 @@
 #! /usr/bin/lua
 
-function waitfornext()
-    start = os.time()
+function jiffy(start)
+    k=0
     while (os.time() == start) do
+      k=k+1
     end
+    return k
 end
 
-function jiffy() 
-    loops_per_jiffy = 1
-    while 1 do
-        start = os.time()
-        for i=1,loops_per_jiffy do
-        end
-        stop = os.time()
-        if (stop - start > 0) then 
-            break;
-        end
-        loops_per_jiffy = loops_per_jiffy + 1
-    end
-    return loops_per_jiffy
+function average(data) 
+  sum = 0
+  for k=1,20 do
+     sum = sum + data[k]
+  end
+  return (sum / 20.0)
 end
 
-min = 1000000
-for k=1,1 do
-    waitfornext()
-    j=jiffy()
-    if (j < min) then
-        min = j
-    end
+measures={}
+start = os.time()
+jiffy(start)
+for k=1,20 do
+    start = os.time()
+    measures[k] = jiffy(start)
+    print(start, measures[k])
 end
+
+min = average(measures)
 print("ok - " .. string.format("%.2f", min / 500) .. " BogoMips")
 
