@@ -66,9 +66,47 @@ ii  hplip                                 3.18.12+dfsg0-2                       
 ii  hplip-data                            3.18.12+dfsg0-2                              all          HP Linux Printing and Imaging - data files
 ```
 
-On récupère les fichiers à l'url suivante: https://developers.hp.com/hp-linux-imaging-and-printing/plugins
+On télécharge les fichiers à l'url suivante: https://developers.hp.com/hp-linux-imaging-and-printing/plugins
 
 Puis on installe le plugin avec la commande `hp-plugin -i`
+
+```
+$ hp-plugin -i
+
+HP Linux Imaging and Printing System (ver. 3.18.12)
+Plugin Download and Install Utility ver. 2.1
+
+Copyright (c) 2001-15 HP Development Company, LP
+This software comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to distribute it
+under certain conditions. See COPYING file for more details.
+
+
+HP Linux Imaging and Printing System (ver. 3.18.12)
+Plugin Download and Install Utility ver. 2.1
+
+Copyright (c) 2001-15 HP Development Company, LP
+This software comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to distribute it
+under certain conditions. See COPYING file for more details.
+
+(Note: Defaults for each question are maked with a '*'. Press <enter> to accept the default.)
+
+
+------------------------------------------
+| PLUG-IN INSTALLATION FOR HPLIP 3.18.12 |
+------------------------------------------
+
+  Option      Description                                       
+  ----------  --------------------------------------------------
+  d           Download plug-in from HP (recommended)            
+  p           Specify a path to the plug-in (advanced)          
+  q           Quit hp-plugin (skip installation)                
+
+Enter option (d=download*, p=specify path, q=quit) ? 
+```
+
+On choisit l'option p ...
 
 Une fois que tout est installé on peut utiliser le scanner.
 
