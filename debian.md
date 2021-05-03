@@ -58,6 +58,14 @@ Ajouter l'imprimante via son adresse IP.
 
 #### scanner
 
+Il faut installer plug-in correspondant à la version de hplib installé sous debian.
+
+On récupère les fichiers à l'url suivante: https://developers.hp.com/hp-linux-imaging-and-printing/plugins
+
+Puis on installe le plugin avec la commande `hp-plugin -i`
+
+Une fois que tout est installé on peut utiliser le scanner.
+
 ```
 $ hp-makeuri 192.168.0.xxx 
 $ sudo apt install xsane 
