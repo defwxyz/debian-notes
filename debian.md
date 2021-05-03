@@ -61,7 +61,7 @@ Ajouter l'imprimante via son adresse IP.
 Il faut installer le plug-in correspondant à la version de hplip installé sous debian.
 
 ```
-$ sudo dpkg-query -l --no-pager | grep hplip
+$ dpkg-query -l --no-pager | grep hplip
 ii  hplip                                 3.18.12+dfsg0-2                              amd64        HP Linux Printing and Imaging System (HPLIP)
 ii  hplip-data                            3.18.12+dfsg0-2                              all          HP Linux Printing and Imaging - data files
 ```
@@ -130,7 +130,7 @@ On trouve les URLs à l'url suivante: https://doc.ubuntu-fr.org/liste_radio_fran
 
 ```
 # Lister les packages installés via la commande: 
-sudo dpkg-query -l --no-pager
+dpkg-query -l --no-pager
 # Installer un package
 sudo apt install vim-gtk3
 ```
