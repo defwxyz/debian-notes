@@ -58,7 +58,13 @@ Ajouter l'imprimante via son adresse IP.
 
 #### scanner
 
-Il faut installer plug-in correspondant à la version de hplib installé sous debian.
+Il faut installer le plug-in correspondant à la version de hplip installé sous debian.
+
+```
+$ sudo dpkg-query -l --no-pager | grep hplip
+ii  hplip                                 3.18.12+dfsg0-2                              amd64        HP Linux Printing and Imaging System (HPLIP)
+ii  hplip-data                            3.18.12+dfsg0-2                              all          HP Linux Printing and Imaging - data files
+```
 
 On récupère les fichiers à l'url suivante: https://developers.hp.com/hp-linux-imaging-and-printing/plugins
 
