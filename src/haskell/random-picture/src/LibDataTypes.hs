@@ -5,6 +5,7 @@ module LibDataTypes (
    ,Rectangle(..)
    ,Circle(..)
    ,Line(..)
+   ,Polygon(..)
 ) where
 
 import SvgColor (Color)
@@ -38,9 +39,16 @@ data Line = Line {
   , lineTarget :: Point
 } deriving (Show, Eq) 
 
+data Polygon = Polygon {
+    polygonPoints :: [ Point ]
+} deriving (Show, Eq)
+
+
 data Figure = FigureRectangle Rectangle
     | FigureEllipse Ellipse 
     | FigureCircle Circle 
     | FigureLine Line 
+    | FigurePolygon Polygon
     deriving (Show,Eq)
- 
+
+

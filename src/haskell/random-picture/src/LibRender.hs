@@ -1,13 +1,14 @@
 module LibRender (
     render,
     renderAlea,
+    renderPoints,
     quote
 ) where
 
 import System.Environment
 import System.Random
 import Control.Monad
-
+import Data.List
 import LibDataTypes
 import SvgStyle
 
@@ -48,5 +49,16 @@ render s (FigureLine (Line (Point x1 y1) (Point x2 y2))) =
          ++ " stroke=" ++ (quoteColor (styleColor s))
          ++ " />"
 
+render s (FigurePolygon (Polygon points)) = 
+     "<polygon points=\""
+         ++ (renderPoints points)
+         ++ "\"" 
+         ++ " fill=" ++ (quoteColor (styleColor s))
+         ++ " stroke-width=" ++ (quote (styleThickness s))
+         ++ " />"
+
+
+renderPoints p  = intercalate " " $ fmap renderPoint p
+renderPoint (Point x y) = (show x) ++ ',':(show y)
 -- render _ _ = ""
 

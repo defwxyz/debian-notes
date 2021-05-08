@@ -52,6 +52,31 @@ randomLine geometry size = do
     q <- (jump p size)
     return (Line p q) 
 
+
+randomPolygon :: Geometry -> Int -> Int -> IO Polygon
+randomPolygon geometry maxn maxsize = do
+    p <- randomPoint geometry
+    n <- randomRIO(1,16) :: IO Int
+    size <- randomRIO(1,maxsize) :: IO Int
+    let rp = regularPolygon (fromIntegral n) (fromIntegral size)
+    return (Polygon (translatePoints p rp) )
+
+   
+translatePoints anchor p = map (translatePoint anchor) p   
+
+translatePoint (Point ax ay) (Point bx by) = Point (ax+bx) (ay+by)
+
+regularPolygon :: Int -> Int -> [ Point ]
+regularPolygon n d = map (coin d) angles where
+    angles = map ((* radian) . fromIntegral) [0..(n-1)]
+    radian = (2.0 * pi) / (fromIntegral n)
+    
+
+coin :: Int -> Float -> Point 
+coin d angle = (Point x y) where
+    x = floor $ (fromIntegral d) * (cos angle)
+    y = floor $ (fromIntegral d) * (sin angle)
+
 jump :: Point -> Int -> IO Point
 jump p size = do
     let doublesize = 2 * size
@@ -60,7 +85,7 @@ jump p size = do
     
 randomFigure :: Geometry -> Int -> IO Figure
 randomFigure geometry size = do
-    dice <- randomRIO(0,3) :: IO Int
+    dice <- randomRIO(0,4) :: IO Int
     randomFigureDispatch dice geometry size 
 
 
@@ -74,7 +99,10 @@ randomFigureDispatch x geometry size
     | (x == 2) = do
       h <- randomLine geometry size 
       return (FigureLine h)
-    | otherwise = do
+    | (x == 3) = do
       i <- randomCircle geometry size
       return (FigureCircle i)
+    | otherwise = do
+      j <- randomPolygon geometry size size
+      return (FigurePolygon j)
 
