@@ -6,6 +6,7 @@ module LibDataTypes (
    ,Circle(..)
    ,Line(..)
    ,Polygon(..)
+   ,Star(..)
 ) where
 
 import SvgColor (Color)
@@ -43,12 +44,16 @@ data Polygon = Polygon {
     polygonPoints :: [ Point ]
 } deriving (Show, Eq)
 
-
+data Star = Star {
+    starPoints :: [ Point ]
+} deriving (Show, Eq) 
+    
 data Figure = FigureRectangle Rectangle
     | FigureEllipse Ellipse 
     | FigureCircle Circle 
     | FigureLine Line 
     | FigurePolygon Polygon
+    | FigureStar Star 
     deriving (Show,Eq)
 
 

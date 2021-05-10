@@ -1,1002 +1,202 @@
 <svg version="1.1" width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
-<line x1="555" y1="744" x2="548" y2="741" stroke-width="1" stroke="#6ce" />
-<ellipse cx="1574" cy="960" rx="1" ry="6" fill="#d86" />
-<rect x="1711" y="368" width="5" height="4" fill="#c55" />
-<rect x="845" y="847" width="9" height="4" fill="#be4" />
-<rect x="212" y="421" width="13" height="3" fill="#e19" />
-<circle cx="351" cy="749" r="13" fill="#02e" />
-<line x1="1544" y1="1018" x2="1531" y2="1022" stroke-width="5" stroke="#bcd" />
-<rect x="1819" y="337" width="3" height="0" fill="#9db" />
-<line x1="1070" y1="1052" x2="1062" y2="1045" stroke-width="5" stroke="#321" />
-<ellipse cx="1883" cy="280" rx="16" ry="9" fill="#afe" />
-<ellipse cx="378" cy="291" rx="12" ry="11" fill="#a30" />
-<rect x="324" y="698" width="6" height="2" fill="#74d" />
-<rect x="1240" y="378" width="7" height="0" fill="#4a6" />
-<circle cx="1753" cy="361" r="3" fill="#ed7" />
-<circle cx="315" cy="992" r="1" fill="#fa0" />
-<line x1="786" y1="472" x2="781" y2="456" stroke-width="5" stroke="#5fc" />
-<line x1="1010" y1="881" x2="1022" y2="867" stroke-width="4" stroke="#5dc" />
-<ellipse cx="1842" cy="855" rx="5" ry="11" fill="#600" />
-<circle cx="878" cy="413" r="10" fill="#2fb" />
-<rect x="398" y="78" width="11" height="2" fill="#ae7" />
-<circle cx="1028" cy="166" r="2" fill="#ec3" />
-<ellipse cx="1617" cy="735" rx="4" ry="12" fill="#724" />
-<rect x="224" y="442" width="5" height="0" fill="#4e2" />
-<line x1="1427" y1="675" x2="1433" y2="686" stroke-width="1" stroke="#dad" />
-<rect x="1437" y="110" width="4" height="1" fill="#7fc" />
-<rect x="321" y="655" width="3" height="8" fill="#8d2" />
-<line x1="81" y1="550" x2="91" y2="555" stroke-width="1" stroke="#819" />
-<ellipse cx="633" cy="488" rx="3" ry="3" fill="#0a3" />
-<line x1="1335" y1="753" x2="1343" y2="765" stroke-width="1" stroke="#88e" />
-<line x1="869" y1="528" x2="867" y2="534" stroke-width="3" stroke="#8f7" />
-<circle cx="1697" cy="166" r="10" fill="#60c" />
-<ellipse cx="521" cy="705" rx="13" ry="10" fill="#558" />
-<circle cx="1568" cy="33" r="12" fill="#722" />
-<line x1="210" y1="75" x2="210" y2="77" stroke-width="3" stroke="#630" />
-<rect x="528" y="1048" width="8" height="5" fill="#1a7" />
-<rect x="1607" y="1026" width="8" height="5" fill="#1be" />
-<rect x="79" y="140" width="6" height="1" fill="#92d" />
-<circle cx="1775" cy="831" r="10" fill="#1f8" />
-<rect x="474" y="585" width="8" height="13" fill="#0e6" />
-<ellipse cx="1453" cy="546" rx="15" ry="9" fill="#430" />
-<ellipse cx="1324" cy="563" rx="4" ry="10" fill="#3b9" />
-<line x1="1873" y1="816" x2="1869" y2="823" stroke-width="4" stroke="#5a4" />
-<line x1="66" y1="495" x2="73" y2="491" stroke-width="3" stroke="#4f9" />
-<ellipse cx="303" cy="654" rx="6" ry="4" fill="#3b5" />
-<rect x="586" y="1062" width="3" height="13" fill="#7ca" />
-<circle cx="1101" cy="395" r="2" fill="#955" />
-<line x1="1802" y1="176" x2="1806" y2="166" stroke-width="5" stroke="#2d2" />
-<ellipse cx="803" cy="327" rx="14" ry="11" fill="#444" />
-<circle cx="431" cy="954" r="12" fill="#07c" />
-<rect x="775" y="251" width="12" height="8" fill="#691" />
-<circle cx="1130" cy="393" r="7" fill="#d23" />
-<circle cx="1018" cy="15" r="13" fill="#15e" />
-<ellipse cx="699" cy="976" rx="13" ry="16" fill="#b6b" />
-<ellipse cx="19" cy="881" rx="13" ry="6" fill="#7ae" />
-<ellipse cx="989" cy="785" rx="15" ry="16" fill="#204" />
-<rect x="964" y="461" width="9" height="1" fill="#e6d" />
-<line x1="1361" y1="629" x2="1359" y2="623" stroke-width="5" stroke="#c24" />
-<line x1="766" y1="508" x2="766" y2="514" stroke-width="5" stroke="#782" />
-<circle cx="1513" cy="951" r="4" fill="#ef4" />
-<rect x="35" y="1057" width="6" height="16" fill="#3c3" />
-<rect x="172" y="549" width="0" height="12" fill="#bab" />
-<circle cx="1574" cy="324" r="8" fill="#9ad" />
-<rect x="623" y="584" width="6" height="14" fill="#4da" />
-<circle cx="1045" cy="326" r="10" fill="#bbc" />
-<line x1="761" y1="10" x2="747" y2="11" stroke-width="4" stroke="#20a" />
-<line x1="1676" y1="454" x2="1681" y2="440" stroke-width="1" stroke="#42a" />
-<rect x="1655" y="745" width="0" height="3" fill="#eb8" />
-<line x1="10" y1="762" x2="23" y2="770" stroke-width="4" stroke="#7a8" />
-<ellipse cx="942" cy="589" rx="3" ry="13" fill="#fea" />
-<ellipse cx="395" cy="831" rx="16" ry="7" fill="#3d0" />
-<ellipse cx="1337" cy="459" rx="15" ry="3" fill="#436" />
-<rect x="1701" y="818" width="11" height="9" fill="#6a0" />
-<ellipse cx="1066" cy="160" rx="7" ry="13" fill="#233" />
-<line x1="805" y1="267" x2="811" y2="272" stroke-width="3" stroke="#19f" />
-<rect x="689" y="810" width="2" height="0" fill="#a08" />
-<ellipse cx="1595" cy="162" rx="6" ry="13" fill="#4e1" />
-<line x1="795" y1="335" x2="791" y2="323" stroke-width="5" stroke="#488" />
-<ellipse cx="1226" cy="473" rx="14" ry="16" fill="#660" />
-<rect x="208" y="48" width="9" height="2" fill="#f47" />
-<rect x="627" y="385" width="11" height="12" fill="#d1e" />
-<line x1="1552" y1="575" x2="1537" y2="574" stroke-width="4" stroke="#d12" />
-<rect x="950" y="497" width="15" height="3" fill="#4ec" />
-<ellipse cx="1753" cy="1031" rx="1" ry="11" fill="#a85" />
-<circle cx="1588" cy="789" r="9" fill="#534" />
-<rect x="1509" y="111" width="14" height="13" fill="#8ea" />
-<rect x="1053" y="168" width="5" height="0" fill="#375" />
-<ellipse cx="1873" cy="662" rx="12" ry="1" fill="#aa3" />
-<ellipse cx="193" cy="784" rx="1" ry="14" fill="#603" />
-<ellipse cx="238" cy="256" rx="11" ry="10" fill="#507" />
-<rect x="647" y="139" width="13" height="15" fill="#862" />
-<line x1="0" y1="327" x2="3" y2="317" stroke-width="3" stroke="#e7e" />
-<ellipse cx="1378" cy="282" rx="2" ry="11" fill="#1de" />
-<line x1="1717" y1="656" x2="1717" y2="650" stroke-width="4" stroke="#e9c" />
-<circle cx="441" cy="475" r="2" fill="#88a" />
-<line x1="1833" y1="582" x2="1829" y2="579" stroke-width="5" stroke="#467" />
-<line x1="798" y1="1018" x2="787" y2="1008" stroke-width="1" stroke="#7e6" />
-<line x1="1852" y1="445" x2="1846" y2="459" stroke-width="2" stroke="#468" />
-<circle cx="1360" cy="615" r="16" fill="#f51" />
-<ellipse cx="615" cy="72" rx="14" ry="2" fill="#93f" />
-<line x1="1066" y1="721" x2="1079" y2="734" stroke-width="3" stroke="#afa" />
-<ellipse cx="401" cy="426" rx="3" ry="10" fill="#424" />
-<rect x="1853" y="966" width="6" height="0" fill="#7f0" />
-<line x1="1291" y1="313" x2="1291" y2="321" stroke-width="4" stroke="#c6d" />
-<line x1="95" y1="372" x2="92" y2="379" stroke-width="5" stroke="#c4d" />
-<rect x="317" y="406" width="0" height="13" fill="#de4" />
-<rect x="1721" y="984" width="12" height="4" fill="#ad2" />
-<ellipse cx="1233" cy="615" rx="12" ry="1" fill="#363" />
-<line x1="1068" y1="898" x2="1055" y2="901" stroke-width="3" stroke="#a9d" />
-<rect x="951" y="522" width="4" height="1" fill="#fa8" />
-<circle cx="18" cy="775" r="11" fill="#642" />
-<line x1="693" y1="419" x2="698" y2="426" stroke-width="1" stroke="#cdb" />
-<line x1="1011" y1="815" x2="1021" y2="828" stroke-width="2" stroke="#803" />
-<line x1="658" y1="7" x2="645" y2="12" stroke-width="1" stroke="#6f1" />
-<line x1="345" y1="99" x2="354" y2="108" stroke-width="4" stroke="#1f5" />
-<ellipse cx="408" cy="456" rx="10" ry="7" fill="#536" />
-<rect x="61" y="983" width="11" height="7" fill="#fb5" />
-<circle cx="1730" cy="634" r="10" fill="#295" />
-<circle cx="56" cy="456" r="15" fill="#528" />
-<rect x="783" y="314" width="7" height="5" fill="#795" />
-<rect x="1351" y="324" width="16" height="15" fill="#2de" />
-<line x1="488" y1="692" x2="480" y2="703" stroke-width="2" stroke="#54c" />
-<circle cx="733" cy="594" r="16" fill="#61b" />
-<ellipse cx="1496" cy="185" rx="8" ry="7" fill="#d9b" />
-<rect x="1463" y="552" width="7" height="0" fill="#ab5" />
-<circle cx="1266" cy="364" r="1" fill="#fe2" />
-<line x1="1082" y1="755" x2="1088" y2="766" stroke-width="2" stroke="#3b0" />
-<rect x="1744" y="114" width="10" height="7" fill="#c77" />
-<ellipse cx="876" cy="713" rx="5" ry="14" fill="#146" />
-<ellipse cx="1677" cy="173" rx="15" ry="14" fill="#987" />
-<circle cx="1847" cy="909" r="6" fill="#61e" />
-<ellipse cx="624" cy="1013" rx="8" ry="6" fill="#a2f" />
-<rect x="184" y="22" width="14" height="8" fill="#34a" />
-<ellipse cx="304" cy="889" rx="9" ry="1" fill="#e44" />
-<line x1="706" y1="400" x2="714" y2="387" stroke-width="4" stroke="#d5e" />
-<rect x="1431" y="542" width="6" height="15" fill="#3ae" />
-<line x1="1769" y1="328" x2="1757" y2="342" stroke-width="4" stroke="#f10" />
-<rect x="617" y="859" width="10" height="16" fill="#43d" />
-<line x1="51" y1="869" x2="41" y2="868" stroke-width="3" stroke="#01a" />
-<rect x="1671" y="874" width="2" height="2" fill="#fa0" />
-<line x1="123" y1="1001" x2="129" y2="985" stroke-width="1" stroke="#487" />
-<line x1="400" y1="839" x2="398" y2="842" stroke-width="2" stroke="#f4d" />
-<line x1="841" y1="485" x2="838" y2="489" stroke-width="1" stroke="#8d8" />
-<circle cx="383" cy="966" r="1" fill="#c4e" />
-<ellipse cx="617" cy="810" rx="15" ry="3" fill="#c5a" />
-<ellipse cx="1111" cy="673" rx="7" ry="4" fill="#0e5" />
-<rect x="1159" y="779" width="8" height="9" fill="#916" />
-<line x1="411" y1="562" x2="414" y2="565" stroke-width="5" stroke="#95c" />
-<line x1="768" y1="1028" x2="781" y2="1044" stroke-width="2" stroke="#096" />
-<line x1="1744" y1="612" x2="1731" y2="600" stroke-width="1" stroke="#67e" />
-<rect x="1610" y="923" width="0" height="7" fill="#cd2" />
-<rect x="1062" y="550" width="3" height="1" fill="#aa3" />
-<rect x="1502" y="352" width="11" height="3" fill="#337" />
-<circle cx="190" cy="205" r="14" fill="#1d2" />
-<rect x="809" y="108" width="12" height="2" fill="#4ea" />
-<ellipse cx="548" cy="915" rx="15" ry="4" fill="#89a" />
-<line x1="1631" y1="56" x2="1646" y2="70" stroke-width="3" stroke="#3ab" />
-<circle cx="742" cy="159" r="16" fill="#929" />
-<ellipse cx="1306" cy="935" rx="9" ry="4" fill="#f01" />
-<circle cx="873" cy="1074" r="13" fill="#f39" />
-<circle cx="908" cy="689" r="7" fill="#ec9" />
-<circle cx="1250" cy="203" r="2" fill="#ecb" />
-<circle cx="1570" cy="680" r="12" fill="#8d2" />
-<circle cx="1867" cy="227" r="1" fill="#ffb" />
-<ellipse cx="1344" cy="772" rx="2" ry="4" fill="#1f0" />
-<ellipse cx="1402" cy="785" rx="4" ry="1" fill="#e56" />
-<line x1="1186" y1="265" x2="1193" y2="275" stroke-width="3" stroke="#cdd" />
-<ellipse cx="544" cy="799" rx="10" ry="14" fill="#1cc" />
-<ellipse cx="1058" cy="278" rx="6" ry="10" fill="#fb4" />
-<rect x="156" y="88" width="13" height="3" fill="#e28" />
-<circle cx="547" cy="651" r="12" fill="#e3b" />
-<line x1="385" y1="313" x2="384" y2="312" stroke-width="4" stroke="#27d" />
-<ellipse cx="848" cy="829" rx="16" ry="11" fill="#8d2" />
-<rect x="1035" y="231" width="11" height="2" fill="#9b0" />
-<circle cx="962" cy="670" r="8" fill="#230" />
-<rect x="1170" y="774" width="6" height="7" fill="#48d" />
-<circle cx="643" cy="48" r="6" fill="#ee6" />
-<circle cx="1549" cy="239" r="6" fill="#8be" />
-<ellipse cx="1204" cy="816" rx="4" ry="12" fill="#a44" />
-<rect x="1291" y="519" width="2" height="15" fill="#f62" />
-<rect x="325" y="214" width="16" height="4" fill="#ece" />
-<circle cx="170" cy="929" r="13" fill="#319" />
-<circle cx="1212" cy="522" r="15" fill="#743" />
-<circle cx="1710" cy="638" r="14" fill="#d10" />
-<circle cx="612" cy="615" r="9" fill="#37b" />
-<ellipse cx="449" cy="1007" rx="8" ry="2" fill="#0c2" />
-<rect x="1697" y="867" width="6" height="3" fill="#b68" />
-<ellipse cx="1420" cy="701" rx="8" ry="12" fill="#262" />
-<rect x="1044" y="1052" width="5" height="8" fill="#4b3" />
-<ellipse cx="1107" cy="340" rx="2" ry="15" fill="#78c" />
-<rect x="1909" y="1067" width="4" height="14" fill="#df9" />
-<circle cx="1710" cy="515" r="4" fill="#fa6" />
-<ellipse cx="284" cy="472" rx="7" ry="4" fill="#869" />
-<ellipse cx="492" cy="337" rx="8" ry="5" fill="#ec6" />
-<rect x="16" y="737" width="8" height="8" fill="#d6d" />
-<line x1="1391" y1="84" x2="1403" y2="90" stroke-width="1" stroke="#e1c" />
-<line x1="1754" y1="541" x2="1768" y2="533" stroke-width="2" stroke="#995" />
-<line x1="1549" y1="861" x2="1539" y2="874" stroke-width="1" stroke="#872" />
-<rect x="1227" y="443" width="12" height="11" fill="#992" />
-<rect x="433" y="269" width="15" height="10" fill="#bc2" />
-<circle cx="1575" cy="1046" r="3" fill="#468" />
-<rect x="791" y="64" width="3" height="5" fill="#d87" />
-<circle cx="1374" cy="415" r="2" fill="#bc6" />
-<ellipse cx="1754" cy="700" rx="7" ry="13" fill="#e64" />
-<ellipse cx="1102" cy="857" rx="13" ry="6" fill="#e3c" />
-<line x1="1249" y1="893" x2="1236" y2="896" stroke-width="3" stroke="#96e" />
-<rect x="714" y="589" width="6" height="2" fill="#1fe" />
-<line x1="179" y1="386" x2="179" y2="376" stroke-width="2" stroke="#5da" />
-<ellipse cx="1894" cy="268" rx="1" ry="13" fill="#bcc" />
-<line x1="1869" y1="1026" x2="1880" y2="1031" stroke-width="4" stroke="#be3" />
-<ellipse cx="1027" cy="209" rx="6" ry="4" fill="#340" />
-<rect x="1322" y="587" width="14" height="9" fill="#4fc" />
-<ellipse cx="390" cy="84" rx="5" ry="9" fill="#4b6" />
-<ellipse cx="31" cy="341" rx="1" ry="8" fill="#480" />
-<circle cx="252" cy="592" r="13" fill="#c7a" />
-<line x1="208" y1="370" x2="219" y2="372" stroke-width="5" stroke="#2ef" />
-<rect x="717" y="661" width="13" height="8" fill="#671" />
-<rect x="1579" y="622" width="7" height="3" fill="#84e" />
-<circle cx="467" cy="493" r="9" fill="#c88" />
-<rect x="799" y="249" width="12" height="10" fill="#66a" />
-<ellipse cx="1190" cy="632" rx="15" ry="14" fill="#c89" />
-<circle cx="1894" cy="754" r="4" fill="#542" />
-<line x1="946" y1="233" x2="935" y2="226" stroke-width="3" stroke="#d8d" />
-<rect x="1015" y="47" width="6" height="1" fill="#fb7" />
-<line x1="901" y1="688" x2="898" y2="678" stroke-width="2" stroke="#28f" />
-<line x1="720" y1="431" x2="731" y2="433" stroke-width="5" stroke="#a0e" />
-<circle cx="338" cy="719" r="9" fill="#580" />
-<line x1="293" y1="890" x2="285" y2="885" stroke-width="2" stroke="#282" />
-<ellipse cx="1500" cy="561" rx="9" ry="12" fill="#88e" />
-<ellipse cx="708" cy="52" rx="11" ry="4" fill="#a30" />
-<line x1="144" y1="798" x2="153" y2="786" stroke-width="3" stroke="#b1d" />
-<ellipse cx="810" cy="136" rx="16" ry="16" fill="#19c" />
-<circle cx="947" cy="847" r="14" fill="#6cd" />
-<circle cx="1074" cy="106" r="6" fill="#9a4" />
-<ellipse cx="1620" cy="106" rx="6" ry="14" fill="#873" />
-<circle cx="1514" cy="420" r="16" fill="#422" />
-<ellipse cx="1833" cy="901" rx="3" ry="11" fill="#8e8" />
-<rect x="1497" y="605" width="14" height="0" fill="#320" />
-<line x1="1828" y1="1014" x2="1819" y2="1004" stroke-width="2" stroke="#787" />
-<ellipse cx="677" cy="148" rx="3" ry="3" fill="#9a8" />
-<circle cx="1837" cy="279" r="5" fill="#76c" />
-<line x1="918" y1="481" x2="904" y2="491" stroke-width="1" stroke="#821" />
-<ellipse cx="583" cy="990" rx="11" ry="9" fill="#7d1" />
-<ellipse cx="1400" cy="326" rx="2" ry="10" fill="#324" />
-<line x1="1261" y1="290" x2="1248" y2="297" stroke-width="1" stroke="#25b" />
-<circle cx="1586" cy="986" r="11" fill="#f83" />
-<ellipse cx="1684" cy="695" rx="2" ry="10" fill="#6b7" />
-<circle cx="1113" cy="558" r="7" fill="#939" />
-<ellipse cx="1663" cy="210" rx="1" ry="5" fill="#962" />
-<line x1="1592" y1="94" x2="1578" y2="90" stroke-width="4" stroke="#b6b" />
-<circle cx="831" cy="844" r="11" fill="#760" />
-<circle cx="182" cy="462" r="6" fill="#e0f" />
-<line x1="1622" y1="333" x2="1614" y2="340" stroke-width="4" stroke="#47c" />
-<rect x="170" y="47" width="7" height="14" fill="#997" />
-<ellipse cx="1659" cy="363" rx="5" ry="3" fill="#387" />
-<rect x="512" y="333" width="0" height="7" fill="#984" />
-<rect x="966" y="310" width="14" height="16" fill="#139" />
-<ellipse cx="354" cy="409" rx="12" ry="6" fill="#371" />
-<circle cx="848" cy="734" r="6" fill="#808" />
-<rect x="1705" y="759" width="7" height="13" fill="#b67" />
-<rect x="1213" y="802" width="5" height="8" fill="#3c4" />
-<line x1="761" y1="183" x2="761" y2="189" stroke-width="5" stroke="#422" />
-<rect x="101" y="75" width="13" height="2" fill="#a6e" />
-<circle cx="1197" cy="127" r="5" fill="#0e1" />
-<rect x="818" y="1069" width="16" height="7" fill="#707" />
-<ellipse cx="1117" cy="223" rx="15" ry="7" fill="#be7" />
-<circle cx="1132" cy="63" r="10" fill="#ceb" />
-<ellipse cx="522" cy="375" rx="5" ry="14" fill="#fb0" />
-<circle cx="1539" cy="983" r="12" fill="#7da" />
-<rect x="1079" y="237" width="12" height="16" fill="#b58" />
-<line x1="5" y1="1057" x2="-6" y2="1068" stroke-width="5" stroke="#c2e" />
-<rect x="1047" y="878" width="6" height="14" fill="#461" />
-<rect x="903" y="990" width="8" height="10" fill="#1d8" />
-<circle cx="1314" cy="817" r="5" fill="#769" />
-<rect x="471" y="107" width="6" height="6" fill="#052" />
-<circle cx="1755" cy="122" r="7" fill="#7ae" />
-<ellipse cx="637" cy="869" rx="16" ry="11" fill="#da1" />
-<ellipse cx="1034" cy="170" rx="7" ry="4" fill="#f73" />
-<line x1="105" y1="965" x2="112" y2="960" stroke-width="1" stroke="#df9" />
-<rect x="1536" y="853" width="16" height="2" fill="#411" />
-<circle cx="1674" cy="29" r="12" fill="#7b1" />
-<rect x="1600" y="120" width="4" height="6" fill="#823" />
-<line x1="1256" y1="577" x2="1241" y2="579" stroke-width="4" stroke="#4f7" />
-<circle cx="1407" cy="197" r="9" fill="#314" />
-<circle cx="1842" cy="7" r="4" fill="#ef3" />
-<rect x="506" y="779" width="8" height="3" fill="#a46" />
-<rect x="886" y="837" width="6" height="6" fill="#d47" />
-<circle cx="1314" cy="106" r="7" fill="#2a3" />
-<circle cx="840" cy="426" r="13" fill="#ae6" />
-<line x1="1512" y1="351" x2="1512" y2="338" stroke-width="2" stroke="#cf4" />
-<ellipse cx="1599" cy="980" rx="9" ry="4" fill="#0b7" />
-<ellipse cx="1043" cy="359" rx="5" ry="11" fill="#bf9" />
-<circle cx="1041" cy="756" r="3" fill="#c2a" />
-<ellipse cx="194" cy="719" rx="9" ry="10" fill="#246" />
-<rect x="332" y="491" width="10" height="2" fill="#708" />
-<rect x="249" y="794" width="16" height="8" fill="#4a3" />
-<rect x="1645" y="251" width="1" height="9" fill="#1ac" />
-<circle cx="797" cy="851" r="10" fill="#746" />
-<line x1="1476" y1="333" x2="1473" y2="344" stroke-width="4" stroke="#1c5" />
-<rect x="111" y="451" width="8" height="13" fill="#55b" />
-<line x1="1627" y1="1023" x2="1622" y2="1017" stroke-width="4" stroke="#8bf" />
-<ellipse cx="302" cy="852" rx="2" ry="6" fill="#db7" />
-<circle cx="647" cy="397" r="2" fill="#484" />
-<rect x="866" y="543" width="13" height="2" fill="#81e" />
-<ellipse cx="1063" cy="227" rx="9" ry="4" fill="#465" />
-<ellipse cx="97" cy="1059" rx="13" ry="5" fill="#44a" />
-<line x1="1580" y1="658" x2="1576" y2="668" stroke-width="5" stroke="#b7d" />
-<circle cx="248" cy="211" r="9" fill="#7eb" />
-<line x1="752" y1="834" x2="756" y2="821" stroke-width="1" stroke="#b70" />
-<circle cx="957" cy="484" r="2" fill="#780" />
-<rect x="1572" y="80" width="8" height="15" fill="#356" />
-<rect x="925" y="938" width="14" height="10" fill="#48a" />
-<ellipse cx="86" cy="1069" rx="1" ry="9" fill="#315" />
-<rect x="734" y="468" width="12" height="15" fill="#caa" />
-<circle cx="34" cy="236" r="2" fill="#f20" />
-<ellipse cx="1133" cy="862" rx="11" ry="10" fill="#f1d" />
-<ellipse cx="1886" cy="448" rx="12" ry="11" fill="#357" />
-<ellipse cx="657" cy="71" rx="4" ry="16" fill="#c9d" />
-<ellipse cx="1666" cy="840" rx="8" ry="5" fill="#ce1" />
-<line x1="381" y1="486" x2="375" y2="483" stroke-width="3" stroke="#476" />
-<circle cx="1233" cy="106" r="10" fill="#0f9" />
-<rect x="1143" y="707" width="0" height="14" fill="#c99" />
-<circle cx="591" cy="1068" r="16" fill="#fd8" />
-<ellipse cx="559" cy="914" rx="10" ry="2" fill="#4f8" />
-<line x1="1900" y1="313" x2="1912" y2="321" stroke-width="5" stroke="#559" />
-<rect x="23" y="51" width="16" height="3" fill="#be9" />
-<ellipse cx="1561" cy="944" rx="14" ry="7" fill="#c9e" />
-<ellipse cx="7" cy="648" rx="9" ry="12" fill="#5e0" />
-<line x1="936" y1="593" x2="951" y2="594" stroke-width="4" stroke="#aff" />
-<line x1="1283" y1="838" x2="1273" y2="842" stroke-width="4" stroke="#857" />
-<rect x="437" y="645" width="7" height="0" fill="#8ee" />
-<ellipse cx="234" cy="911" rx="12" ry="13" fill="#1d7" />
-<rect x="1435" y="445" width="9" height="9" fill="#a3f" />
-<ellipse cx="1072" cy="810" rx="15" ry="3" fill="#5c6" />
-<circle cx="988" cy="201" r="3" fill="#c34" />
-<rect x="1254" y="382" width="12" height="14" fill="#7a5" />
-<line x1="809" y1="11" x2="802" y2="15" stroke-width="4" stroke="#b9b" />
-<rect x="1642" y="194" width="7" height="7" fill="#9c1" />
-<circle cx="1028" cy="567" r="4" fill="#cf7" />
-<rect x="851" y="9" width="2" height="5" fill="#50b" />
-<ellipse cx="803" cy="849" rx="6" ry="6" fill="#964" />
-<line x1="1558" y1="10" x2="1551" y2="5" stroke-width="2" stroke="#a2d" />
-<rect x="818" y="960" width="13" height="2" fill="#9ca" />
-<ellipse cx="1856" cy="134" rx="15" ry="3" fill="#bd9" />
-<rect x="262" y="101" width="6" height="13" fill="#3dd" />
-<line x1="91" y1="904" x2="77" y2="888" stroke-width="1" stroke="#291" />
-<rect x="92" y="206" width="7" height="5" fill="#c4c" />
-<line x1="348" y1="343" x2="357" y2="336" stroke-width="1" stroke="#8fa" />
-<circle cx="654" cy="377" r="13" fill="#5fa" />
-<circle cx="825" cy="320" r="5" fill="#508" />
-<rect x="1216" y="829" width="2" height="10" fill="#06e" />
-<rect x="979" y="125" width="8" height="2" fill="#6cb" />
-<circle cx="543" cy="306" r="2" fill="#091" />
-<ellipse cx="1394" cy="643" rx="12" ry="16" fill="#895" />
-<circle cx="1667" cy="9" r="9" fill="#ab4" />
-<rect x="1510" y="732" width="6" height="4" fill="#3e5" />
-<circle cx="198" cy="25" r="14" fill="#547" />
-<circle cx="284" cy="536" r="11" fill="#9f6" />
-<line x1="684" y1="377" x2="674" y2="365" stroke-width="1" stroke="#2f5" />
-<line x1="1026" y1="296" x2="1012" y2="306" stroke-width="2" stroke="#c74" />
-<ellipse cx="929" cy="700" rx="7" ry="9" fill="#577" />
-<rect x="207" y="712" width="12" height="0" fill="#1df" />
-<circle cx="1316" cy="65" r="1" fill="#5fa" />
-<line x1="629" y1="962" x2="639" y2="948" stroke-width="2" stroke="#bf7" />
-<line x1="807" y1="1042" x2="796" y2="1036" stroke-width="3" stroke="#2b8" />
-<ellipse cx="1819" cy="473" rx="12" ry="3" fill="#15a" />
-<rect x="642" y="282" width="5" height="10" fill="#c44" />
-<line x1="1697" y1="663" x2="1691" y2="670" stroke-width="4" stroke="#90c" />
-<line x1="1377" y1="706" x2="1378" y2="719" stroke-width="5" stroke="#b8f" />
-<line x1="1374" y1="787" x2="1385" y2="794" stroke-width="1" stroke="#778" />
-<ellipse cx="965" cy="1018" rx="6" ry="8" fill="#610" />
-<rect x="1774" y="132" width="6" height="6" fill="#c7b" />
-<ellipse cx="61" cy="426" rx="2" ry="3" fill="#590" />
-<circle cx="733" cy="1001" r="12" fill="#1b0" />
-<ellipse cx="1893" cy="541" rx="14" ry="7" fill="#9f0" />
-<circle cx="987" cy="615" r="13" fill="#0f9" />
-<circle cx="1150" cy="0" r="2" fill="#03f" />
-<circle cx="465" cy="932" r="15" fill="#01e" />
-<line x1="1306" y1="283" x2="1291" y2="284" stroke-width="4" stroke="#acf" />
-<ellipse cx="432" cy="602" rx="14" ry="8" fill="#046" />
-<ellipse cx="1848" cy="1038" rx="11" ry="6" fill="#d31" />
-<rect x="427" y="208" width="16" height="3" fill="#0c1" />
-<line x1="1674" y1="246" x2="1682" y2="230" stroke-width="2" stroke="#52a" />
-<line x1="320" y1="69" x2="314" y2="81" stroke-width="2" stroke="#820" />
-<circle cx="1494" cy="903" r="13" fill="#916" />
-<ellipse cx="835" cy="696" rx="11" ry="7" fill="#77e" />
-<line x1="589" y1="931" x2="576" y2="916" stroke-width="5" stroke="#d4d" />
-<circle cx="1349" cy="317" r="15" fill="#202" />
-<rect x="808" y="195" width="0" height="4" fill="#55a" />
-<line x1="1141" y1="715" x2="1146" y2="731" stroke-width="2" stroke="#6e0" />
-<ellipse cx="666" cy="909" rx="1" ry="2" fill="#cff" />
-<circle cx="1606" cy="894" r="4" fill="#a19" />
-<rect x="552" y="829" width="13" height="14" fill="#620" />
-<rect x="961" y="677" width="4" height="4" fill="#0a5" />
-<rect x="1032" y="1057" width="15" height="16" fill="#2b7" />
-<ellipse cx="1684" cy="579" rx="9" ry="11" fill="#f42" />
-<rect x="188" y="884" width="11" height="6" fill="#3c6" />
-<ellipse cx="1537" cy="912" rx="10" ry="16" fill="#5a8" />
-<ellipse cx="1554" cy="635" rx="8" ry="15" fill="#378" />
-<line x1="428" y1="870" x2="444" y2="879" stroke-width="4" stroke="#f4f" />
-<rect x="1237" y="869" width="10" height="0" fill="#c4d" />
-<rect x="1605" y="982" width="5" height="13" fill="#50d" />
-<line x1="540" y1="697" x2="533" y2="689" stroke-width="5" stroke="#f5a" />
-<rect x="21" y="867" width="14" height="10" fill="#2f5" />
-<line x1="619" y1="371" x2="616" y2="374" stroke-width="1" stroke="#fda" />
-<circle cx="878" cy="505" r="3" fill="#c29" />
-<rect x="584" y="864" width="5" height="8" fill="#d53" />
-<circle cx="1144" cy="226" r="14" fill="#473" />
-<line x1="808" y1="425" x2="807" y2="438" stroke-width="2" stroke="#f3e" />
-<ellipse cx="173" cy="463" rx="3" ry="15" fill="#7bf" />
-<line x1="620" y1="357" x2="624" y2="371" stroke-width="5" stroke="#5df" />
-<circle cx="721" cy="489" r="6" fill="#d80" />
-<rect x="1897" y="326" width="4" height="8" fill="#c01" />
-<line x1="1087" y1="765" x2="1077" y2="769" stroke-width="1" stroke="#d01" />
-<circle cx="1640" cy="494" r="8" fill="#d14" />
-<line x1="155" y1="428" x2="154" y2="415" stroke-width="2" stroke="#97f" />
-<ellipse cx="1512" cy="688" rx="4" ry="6" fill="#ac2" />
-<circle cx="834" cy="498" r="11" fill="#2a8" />
-<circle cx="794" cy="367" r="13" fill="#99b" />
-<circle cx="1338" cy="227" r="12" fill="#fb9" />
-<circle cx="474" cy="89" r="2" fill="#330" />
-<line x1="569" y1="943" x2="556" y2="957" stroke-width="5" stroke="#859" />
-<rect x="1070" y="303" width="2" height="15" fill="#1c3" />
-<rect x="195" y="84" width="6" height="6" fill="#03d" />
-<ellipse cx="1892" cy="129" rx="3" ry="1" fill="#587" />
-<line x1="1914" y1="589" x2="1898" y2="592" stroke-width="5" stroke="#877" />
-<rect x="1796" y="915" width="6" height="13" fill="#4f2" />
-<line x1="77" y1="976" x2="89" y2="967" stroke-width="1" stroke="#649" />
-<ellipse cx="1651" cy="821" rx="14" ry="2" fill="#26a" />
-<line x1="789" y1="235" x2="799" y2="236" stroke-width="3" stroke="#223" />
-<circle cx="1024" cy="263" r="10" fill="#888" />
-<line x1="759" y1="491" x2="763" y2="477" stroke-width="1" stroke="#b10" />
-<circle cx="1140" cy="414" r="15" fill="#5ce" />
-<ellipse cx="585" cy="508" rx="1" ry="5" fill="#42c" />
-<ellipse cx="1875" cy="977" rx="2" ry="14" fill="#9a4" />
-<rect x="1042" y="933" width="16" height="5" fill="#d14" />
-<line x1="974" y1="278" x2="987" y2="278" stroke-width="5" stroke="#049" />
-<line x1="931" y1="170" x2="924" y2="184" stroke-width="5" stroke="#8e7" />
-<line x1="579" y1="916" x2="584" y2="926" stroke-width="1" stroke="#6ae" />
-<ellipse cx="1392" cy="398" rx="11" ry="10" fill="#6fe" />
-<line x1="404" y1="368" x2="413" y2="371" stroke-width="1" stroke="#cd1" />
-<line x1="1798" y1="319" x2="1812" y2="310" stroke-width="1" stroke="#979" />
-<ellipse cx="834" cy="345" rx="13" ry="1" fill="#1c0" />
-<ellipse cx="404" cy="674" rx="3" ry="6" fill="#520" />
-<line x1="1393" y1="790" x2="1397" y2="794" stroke-width="5" stroke="#8e8" />
-<rect x="1508" y="232" width="12" height="10" fill="#385" />
-<line x1="297" y1="343" x2="305" y2="349" stroke-width="3" stroke="#08b" />
-<ellipse cx="1735" cy="698" rx="11" ry="10" fill="#a1b" />
-<rect x="1723" y="863" width="0" height="10" fill="#c9e" />
-<rect x="809" y="401" width="8" height="10" fill="#4a8" />
-<rect x="1466" y="65" width="0" height="3" fill="#f81" />
-<rect x="1822" y="77" width="1" height="8" fill="#06c" />
-<circle cx="865" cy="509" r="5" fill="#7ab" />
-<line x1="485" y1="362" x2="470" y2="373" stroke-width="2" stroke="#f98" />
-<ellipse cx="691" cy="855" rx="8" ry="2" fill="#6d3" />
-<circle cx="1259" cy="647" r="9" fill="#ee2" />
-<rect x="439" y="874" width="11" height="13" fill="#fce" />
-<circle cx="29" cy="898" r="7" fill="#7e7" />
-<rect x="1621" y="91" width="0" height="2" fill="#5b8" />
-<circle cx="1464" cy="187" r="16" fill="#056" />
-<circle cx="157" cy="315" r="15" fill="#9d1" />
-<circle cx="668" cy="111" r="3" fill="#868" />
-<rect x="1590" y="181" width="6" height="2" fill="#d0c" />
-<rect x="188" y="1005" width="14" height="12" fill="#d1b" />
-<line x1="1261" y1="322" x2="1269" y2="332" stroke-width="4" stroke="#4a3" />
-<rect x="1463" y="95" width="0" height="6" fill="#b3f" />
-<rect x="1797" y="791" width="16" height="13" fill="#8b2" />
-<circle cx="574" cy="675" r="13" fill="#73e" />
-<line x1="822" y1="331" x2="831" y2="319" stroke-width="1" stroke="#b82" />
-<rect x="1576" y="127" width="0" height="10" fill="#e54" />
-<line x1="1789" y1="677" x2="1790" y2="669" stroke-width="1" stroke="#3e8" />
-<ellipse cx="1698" cy="172" rx="12" ry="5" fill="#b1e" />
-<rect x="33" y="390" width="3" height="9" fill="#054" />
-<line x1="1665" y1="366" x2="1676" y2="357" stroke-width="1" stroke="#4d4" />
-<circle cx="1025" cy="212" r="9" fill="#994" />
-<ellipse cx="1161" cy="335" rx="7" ry="4" fill="#808" />
-<ellipse cx="1308" cy="798" rx="2" ry="14" fill="#db5" />
-<ellipse cx="1095" cy="1075" rx="13" ry="13" fill="#7cc" />
-<rect x="953" y="939" width="0" height="9" fill="#c85" />
-<rect x="1620" y="182" width="0" height="15" fill="#27e" />
-<ellipse cx="891" cy="767" rx="15" ry="11" fill="#038" />
-<line x1="1690" y1="540" x2="1696" y2="526" stroke-width="3" stroke="#b25" />
-<line x1="1592" y1="456" x2="1602" y2="441" stroke-width="5" stroke="#b0f" />
-<line x1="53" y1="763" x2="37" y2="750" stroke-width="1" stroke="#748" />
-<rect x="1605" y="8" width="4" height="9" fill="#16b" />
-<rect x="921" y="702" width="2" height="12" fill="#74f" />
-<ellipse cx="158" cy="722" rx="1" ry="13" fill="#d83" />
-<rect x="813" y="555" width="7" height="5" fill="#dc7" />
-<ellipse cx="1449" cy="642" rx="15" ry="6" fill="#628" />
-<rect x="1092" y="349" width="5" height="16" fill="#12e" />
-<circle cx="511" cy="795" r="6" fill="#373" />
-<circle cx="1748" cy="705" r="12" fill="#351" />
-<ellipse cx="1495" cy="314" rx="11" ry="10" fill="#abf" />
-<circle cx="137" cy="131" r="5" fill="#8db" />
-<ellipse cx="705" cy="583" rx="1" ry="4" fill="#06a" />
-<circle cx="1778" cy="339" r="8" fill="#380" />
-<circle cx="855" cy="345" r="15" fill="#251" />
-<line x1="1480" y1="738" x2="1476" y2="746" stroke-width="5" stroke="#0f1" />
-<ellipse cx="145" cy="741" rx="5" ry="10" fill="#c4f" />
-<rect x="1813" y="327" width="14" height="6" fill="#18a" />
-<line x1="1774" y1="49" x2="1775" y2="63" stroke-width="2" stroke="#4f7" />
-<rect x="1421" y="585" width="4" height="10" fill="#e5e" />
-<rect x="356" y="763" width="3" height="12" fill="#a4a" />
-<ellipse cx="1287" cy="628" rx="8" ry="13" fill="#4ae" />
-<line x1="798" y1="649" x2="786" y2="653" stroke-width="2" stroke="#ade" />
-<circle cx="579" cy="601" r="16" fill="#00b" />
-<circle cx="873" cy="1052" r="16" fill="#73b" />
-<circle cx="1435" cy="960" r="14" fill="#f5a" />
-<line x1="1779" y1="1008" x2="1777" y2="1006" stroke-width="5" stroke="#690" />
-<circle cx="1286" cy="132" r="8" fill="#cc0" />
-<line x1="1856" y1="737" x2="1859" y2="736" stroke-width="3" stroke="#f9c" />
-<rect x="1259" y="431" width="14" height="2" fill="#d4d" />
-<rect x="1490" y="369" width="5" height="10" fill="#2ee" />
-<ellipse cx="814" cy="594" rx="15" ry="6" fill="#b01" />
-<line x1="1203" y1="675" x2="1201" y2="678" stroke-width="3" stroke="#e77" />
-<line x1="651" y1="291" x2="647" y2="283" stroke-width="3" stroke="#fd0" />
-<rect x="1466" y="344" width="9" height="6" fill="#d64" />
-<circle cx="1794" cy="654" r="14" fill="#d52" />
-<circle cx="1522" cy="129" r="5" fill="#1da" />
-<rect x="1439" y="829" width="14" height="15" fill="#8bc" />
-<line x1="1829" y1="160" x2="1826" y2="176" stroke-width="4" stroke="#053" />
-<ellipse cx="1098" cy="381" rx="14" ry="12" fill="#ae2" />
-<circle cx="536" cy="195" r="9" fill="#800" />
-<circle cx="1019" cy="885" r="9" fill="#a45" />
-<ellipse cx="248" cy="1037" rx="2" ry="15" fill="#208" />
-<circle cx="1312" cy="428" r="15" fill="#957" />
-<ellipse cx="708" cy="706" rx="12" ry="14" fill="#fca" />
-<line x1="993" y1="279" x2="1005" y2="283" stroke-width="4" stroke="#f36" />
-<rect x="720" y="538" width="16" height="3" fill="#201" />
-<ellipse cx="784" cy="169" rx="8" ry="10" fill="#06a" />
-<ellipse cx="1656" cy="792" rx="14" ry="3" fill="#0a3" />
-<line x1="239" y1="477" x2="243" y2="469" stroke-width="1" stroke="#ecf" />
-<ellipse cx="1425" cy="240" rx="15" ry="16" fill="#5a7" />
-<rect x="503" y="873" width="12" height="15" fill="#1d2" />
-<ellipse cx="1909" cy="798" rx="5" ry="14" fill="#226" />
-<ellipse cx="1456" cy="861" rx="15" ry="2" fill="#876" />
-<rect x="1172" y="439" width="8" height="10" fill="#b79" />
-<circle cx="554" cy="934" r="2" fill="#366" />
-<circle cx="1548" cy="695" r="3" fill="#c87" />
-<ellipse cx="1811" cy="348" rx="16" ry="10" fill="#93c" />
-<ellipse cx="301" cy="590" rx="11" ry="13" fill="#a88" />
-<rect x="162" y="346" width="0" height="12" fill="#b6a" />
-<rect x="276" y="533" width="13" height="8" fill="#ac7" />
-<rect x="1805" y="933" width="14" height="13" fill="#9c6" />
-<rect x="659" y="284" width="10" height="0" fill="#c6d" />
-<line x1="418" y1="0" x2="423" y2="-8" stroke-width="4" stroke="#96b" />
-<line x1="1059" y1="590" x2="1057" y2="602" stroke-width="2" stroke="#b00" />
-<circle cx="615" cy="674" r="3" fill="#06a" />
-<line x1="1020" y1="587" x2="1036" y2="595" stroke-width="5" stroke="#4fe" />
-<rect x="210" y="872" width="6" height="13" fill="#bf2" />
-<ellipse cx="1021" cy="884" rx="5" ry="4" fill="#bcd" />
-<line x1="71" y1="49" x2="86" y2="37" stroke-width="4" stroke="#3d5" />
-<circle cx="1611" cy="410" r="16" fill="#c70" />
-<circle cx="166" cy="138" r="5" fill="#2ee" />
-<line x1="863" y1="107" x2="860" y2="115" stroke-width="3" stroke="#99f" />
-<line x1="1317" y1="58" x2="1308" y2="46" stroke-width="5" stroke="#e8d" />
-<ellipse cx="1010" cy="234" rx="2" ry="6" fill="#103" />
-<line x1="287" y1="389" x2="292" y2="377" stroke-width="1" stroke="#0e5" />
-<circle cx="1907" cy="17" r="2" fill="#be7" />
-<ellipse cx="1781" cy="1009" rx="4" ry="14" fill="#be7" />
-<rect x="485" y="1056" width="12" height="16" fill="#217" />
-<rect x="1323" y="601" width="7" height="13" fill="#005" />
-<rect x="1330" y="637" width="0" height="3" fill="#253" />
-<line x1="112" y1="274" x2="120" y2="261" stroke-width="1" stroke="#e34" />
-<rect x="550" y="528" width="11" height="16" fill="#7d0" />
-<line x1="1022" y1="569" x2="1017" y2="566" stroke-width="4" stroke="#ccc" />
-<line x1="784" y1="461" x2="791" y2="477" stroke-width="5" stroke="#542" />
-<rect x="69" y="464" width="10" height="2" fill="#f78" />
-<line x1="107" y1="846" x2="118" y2="842" stroke-width="1" stroke="#f6d" />
-<ellipse cx="679" cy="1067" rx="13" ry="7" fill="#5fa" />
-<circle cx="879" cy="203" r="13" fill="#a67" />
-<circle cx="450" cy="154" r="11" fill="#624" />
-<rect x="1657" y="221" width="10" height="3" fill="#c87" />
-<rect x="1420" y="143" width="2" height="16" fill="#c29" />
-<ellipse cx="197" cy="921" rx="2" ry="10" fill="#09e" />
-<ellipse cx="366" cy="513" rx="9" ry="13" fill="#20f" />
-<line x1="642" y1="145" x2="636" y2="143" stroke-width="4" stroke="#479" />
-<circle cx="941" cy="40" r="16" fill="#965" />
-<circle cx="1911" cy="408" r="3" fill="#558" />
-<line x1="668" y1="206" x2="658" y2="213" stroke-width="5" stroke="#9ae" />
-<circle cx="839" cy="68" r="4" fill="#70e" />
-<circle cx="855" cy="361" r="2" fill="#249" />
-<circle cx="1194" cy="145" r="16" fill="#1e8" />
-<ellipse cx="281" cy="312" rx="10" ry="7" fill="#3b9" />
-<rect x="675" y="160" width="14" height="5" fill="#dd5" />
-<rect x="1672" y="58" width="8" height="10" fill="#2fc" />
-<ellipse cx="417" cy="619" rx="8" ry="4" fill="#a28" />
-<line x1="633" y1="186" x2="630" y2="182" stroke-width="1" stroke="#fc3" />
-<line x1="499" y1="593" x2="484" y2="590" stroke-width="3" stroke="#556" />
-<rect x="1133" y="536" width="11" height="15" fill="#25d" />
-<ellipse cx="994" cy="49" rx="14" ry="14" fill="#493" />
-<rect x="591" y="386" width="3" height="8" fill="#190" />
-<line x1="863" y1="367" x2="849" y2="375" stroke-width="5" stroke="#415" />
-<rect x="1613" y="881" width="4" height="10" fill="#046" />
-<line x1="546" y1="153" x2="561" y2="146" stroke-width="1" stroke="#bf5" />
-<rect x="310" y="202" width="13" height="13" fill="#ec5" />
-<circle cx="199" cy="871" r="16" fill="#29e" />
-<ellipse cx="373" cy="50" rx="14" ry="15" fill="#14d" />
-<circle cx="1427" cy="1022" r="1" fill="#b28" />
-<rect x="1424" y="359" width="7" height="8" fill="#d40" />
-<ellipse cx="838" cy="543" rx="5" ry="9" fill="#0c1" />
-<line x1="1084" y1="572" x2="1085" y2="582" stroke-width="1" stroke="#4a3" />
-<line x1="1523" y1="678" x2="1536" y2="686" stroke-width="4" stroke="#3a4" />
-<ellipse cx="1450" cy="1043" rx="1" ry="8" fill="#863" />
-<line x1="1613" y1="22" x2="1604" y2="18" stroke-width="4" stroke="#a41" />
-<ellipse cx="264" cy="252" rx="13" ry="14" fill="#1d3" />
-<circle cx="1791" cy="184" r="16" fill="#4d7" />
-<ellipse cx="290" cy="961" rx="3" ry="10" fill="#3f5" />
-<ellipse cx="456" cy="64" rx="7" ry="14" fill="#5d8" />
-<rect x="1631" y="1040" width="8" height="9" fill="#a71" />
-<rect x="1108" y="51" width="1" height="10" fill="#fe1" />
-<line x1="984" y1="826" x2="996" y2="837" stroke-width="5" stroke="#641" />
-<circle cx="19" cy="421" r="1" fill="#033" />
-<ellipse cx="1528" cy="431" rx="6" ry="9" fill="#2fc" />
-<rect x="239" y="327" width="0" height="2" fill="#673" />
-<circle cx="81" cy="870" r="16" fill="#39f" />
-<line x1="1287" y1="985" x2="1296" y2="980" stroke-width="2" stroke="#f81" />
-<ellipse cx="230" cy="198" rx="7" ry="5" fill="#652" />
-<line x1="20" y1="382" x2="10" y2="376" stroke-width="5" stroke="#c12" />
-<line x1="731" y1="582" x2="731" y2="572" stroke-width="3" stroke="#fd4" />
-<rect x="119" y="580" width="1" height="4" fill="#b2e" />
-<line x1="208" y1="210" x2="200" y2="214" stroke-width="2" stroke="#f86" />
-<circle cx="1545" cy="199" r="12" fill="#53d" />
-<circle cx="384" cy="427" r="16" fill="#cc9" />
-<circle cx="134" cy="817" r="1" fill="#b84" />
-<line x1="492" y1="580" x2="485" y2="585" stroke-width="2" stroke="#b34" />
-<circle cx="828" cy="454" r="9" fill="#1ce" />
-<circle cx="231" cy="263" r="2" fill="#dd5" />
-<line x1="1476" y1="55" x2="1490" y2="70" stroke-width="4" stroke="#dd2" />
-<circle cx="140" cy="232" r="13" fill="#356" />
-<rect x="316" y="447" width="3" height="12" fill="#8dd" />
-<ellipse cx="424" cy="70" rx="7" ry="10" fill="#141" />
-<rect x="440" y="172" width="14" height="2" fill="#c8f" />
-<ellipse cx="363" cy="941" rx="3" ry="2" fill="#f24" />
-<circle cx="654" cy="350" r="7" fill="#0e5" />
-<circle cx="1554" cy="91" r="7" fill="#7eb" />
-<line x1="875" y1="168" x2="865" y2="161" stroke-width="5" stroke="#90a" />
-<ellipse cx="11" cy="927" rx="3" ry="4" fill="#5c1" />
-<circle cx="486" cy="134" r="10" fill="#d21" />
-<ellipse cx="1213" cy="361" rx="2" ry="7" fill="#3ce" />
-<circle cx="127" cy="238" r="14" fill="#aa7" />
-<circle cx="799" cy="877" r="1" fill="#15f" />
-<ellipse cx="1022" cy="1030" rx="1" ry="10" fill="#9f6" />
-<ellipse cx="1293" cy="222" rx="16" ry="12" fill="#7fe" />
-<rect x="528" y="141" width="1" height="13" fill="#14b" />
-<line x1="1763" y1="692" x2="1758" y2="677" stroke-width="2" stroke="#4f4" />
-<ellipse cx="395" cy="670" rx="3" ry="1" fill="#a48" />
-<ellipse cx="1459" cy="1" rx="1" ry="7" fill="#670" />
-<rect x="1726" y="1010" width="13" height="16" fill="#f56" />
-<ellipse cx="1308" cy="778" rx="2" ry="14" fill="#846" />
-<line x1="831" y1="469" x2="818" y2="473" stroke-width="5" stroke="#258" />
-<line x1="1628" y1="93" x2="1638" y2="97" stroke-width="5" stroke="#8bf" />
-<ellipse cx="419" cy="879" rx="4" ry="10" fill="#569" />
-<line x1="1638" y1="902" x2="1633" y2="899" stroke-width="4" stroke="#673" />
-<circle cx="616" cy="485" r="10" fill="#b39" />
-<rect x="520" y="868" width="10" height="1" fill="#760" />
-<line x1="1483" y1="262" x2="1472" y2="263" stroke-width="3" stroke="#8f0" />
-<circle cx="659" cy="654" r="3" fill="#339" />
-<circle cx="1241" cy="474" r="13" fill="#a7b" />
-<rect x="1571" y="124" width="16" height="16" fill="#504" />
-<circle cx="449" cy="362" r="5" fill="#e28" />
-<ellipse cx="1107" cy="279" rx="1" ry="9" fill="#7ce" />
-<line x1="1677" y1="249" x2="1674" y2="236" stroke-width="4" stroke="#2d5" />
-<line x1="879" y1="1040" x2="887" y2="1030" stroke-width="1" stroke="#ea6" />
-<rect x="454" y="598" width="11" height="13" fill="#191" />
-<ellipse cx="1770" cy="694" rx="1" ry="16" fill="#157" />
-<circle cx="1042" cy="25" r="2" fill="#1e1" />
-<circle cx="1834" cy="181" r="1" fill="#a82" />
-<rect x="974" y="278" width="3" height="1" fill="#6ee" />
-<circle cx="283" cy="495" r="11" fill="#afa" />
-<line x1="1885" y1="302" x2="1872" y2="311" stroke-width="2" stroke="#e8c" />
-<ellipse cx="1394" cy="1020" rx="10" ry="7" fill="#4e0" />
-<line x1="1051" y1="851" x2="1067" y2="857" stroke-width="5" stroke="#e86" />
-<rect x="1212" y="306" width="15" height="3" fill="#1aa" />
-<rect x="277" y="267" width="5" height="15" fill="#beb" />
-<circle cx="740" cy="514" r="3" fill="#4f6" />
-<rect x="407" y="1074" width="8" height="8" fill="#1d7" />
-<line x1="375" y1="148" x2="380" y2="162" stroke-width="2" stroke="#38d" />
-<line x1="671" y1="1018" x2="684" y2="1028" stroke-width="2" stroke="#0eb" />
-<circle cx="1297" cy="921" r="16" fill="#b5f" />
-<ellipse cx="1373" cy="301" rx="6" ry="15" fill="#f05" />
-<circle cx="782" cy="791" r="10" fill="#24e" />
-<rect x="252" y="55" width="8" height="11" fill="#18f" />
-<ellipse cx="1357" cy="304" rx="5" ry="3" fill="#20f" />
-<rect x="770" y="169" width="7" height="4" fill="#21f" />
-<line x1="245" y1="726" x2="239" y2="722" stroke-width="1" stroke="#c66" />
-<circle cx="1581" cy="307" r="5" fill="#035" />
-<ellipse cx="1023" cy="479" rx="13" ry="7" fill="#5b4" />
-<line x1="220" y1="132" x2="226" y2="142" stroke-width="2" stroke="#91f" />
-<line x1="3" y1="174" x2="7" y2="170" stroke-width="1" stroke="#808" />
-<ellipse cx="995" cy="1040" rx="8" ry="14" fill="#289" />
-<circle cx="128" cy="53" r="3" fill="#2e9" />
-<line x1="1032" y1="463" x2="1019" y2="460" stroke-width="4" stroke="#617" />
-<rect x="214" y="880" width="0" height="4" fill="#139" />
-<line x1="1614" y1="708" x2="1621" y2="696" stroke-width="1" stroke="#5a8" />
-<circle cx="962" cy="179" r="12" fill="#58f" />
-<rect x="167" y="774" width="6" height="9" fill="#3f2" />
-<ellipse cx="856" cy="474" rx="10" ry="16" fill="#724" />
-<line x1="1390" y1="650" x2="1388" y2="646" stroke-width="4" stroke="#fe1" />
-<rect x="224" y="133" width="5" height="4" fill="#c46" />
-<circle cx="21" cy="847" r="2" fill="#b9c" />
-<circle cx="1244" cy="483" r="7" fill="#005" />
-<rect x="1341" y="708" width="7" height="4" fill="#edf" />
-<circle cx="207" cy="657" r="10" fill="#b93" />
-<line x1="414" y1="206" x2="412" y2="200" stroke-width="1" stroke="#d41" />
-<rect x="201" y="1073" width="14" height="10" fill="#30d" />
-<line x1="1312" y1="232" x2="1305" y2="231" stroke-width="4" stroke="#186" />
-<circle cx="1267" cy="945" r="3" fill="#bc7" />
-<line x1="218" y1="961" x2="204" y2="967" stroke-width="4" stroke="#0a3" />
-<rect x="1453" y="56" width="2" height="6" fill="#24b" />
-<circle cx="1112" cy="127" r="16" fill="#aa9" />
-<line x1="1398" y1="455" x2="1409" y2="439" stroke-width="1" stroke="#83a" />
-<rect x="1709" y="472" width="4" height="0" fill="#722" />
-<rect x="1617" y="994" width="15" height="3" fill="#935" />
-<rect x="680" y="848" width="5" height="4" fill="#ab8" />
-<rect x="1076" y="390" width="7" height="0" fill="#8db" />
-<rect x="1271" y="975" width="7" height="4" fill="#2e5" />
-<ellipse cx="868" cy="47" rx="11" ry="5" fill="#b9b" />
-<rect x="1244" y="902" width="0" height="10" fill="#898" />
-<circle cx="902" cy="202" r="14" fill="#7cf" />
-<ellipse cx="1415" cy="552" rx="3" ry="15" fill="#b0d" />
-<ellipse cx="1764" cy="1003" rx="16" ry="14" fill="#a18" />
-<ellipse cx="318" cy="820" rx="16" ry="5" fill="#23d" />
-<ellipse cx="1427" cy="480" rx="13" ry="12" fill="#c09" />
-<rect x="1884" y="637" width="11" height="13" fill="#df7" />
-<ellipse cx="624" cy="1064" rx="6" ry="15" fill="#6c5" />
-<ellipse cx="228" cy="706" rx="10" ry="9" fill="#767" />
-<rect x="1401" y="473" width="13" height="12" fill="#6d2" />
-<ellipse cx="1882" cy="547" rx="9" ry="15" fill="#8de" />
-<line x1="740" y1="814" x2="726" y2="800" stroke-width="1" stroke="#3b5" />
-<rect x="881" y="1016" width="6" height="15" fill="#675" />
-<line x1="1292" y1="628" x2="1305" y2="614" stroke-width="3" stroke="#3c0" />
-<rect x="175" y="842" width="6" height="13" fill="#4c0" />
-<line x1="1522" y1="182" x2="1512" y2="182" stroke-width="4" stroke="#b06" />
-<rect x="1406" y="735" width="10" height="6" fill="#210" />
-<ellipse cx="631" cy="828" rx="12" ry="13" fill="#f77" />
-<rect x="605" y="645" width="14" height="13" fill="#416" />
-<rect x="74" y="542" width="10" height="16" fill="#eb2" />
-<circle cx="792" cy="823" r="6" fill="#e35" />
-<rect x="1127" y="20" width="13" height="16" fill="#196" />
-<ellipse cx="1206" cy="63" rx="13" ry="5" fill="#743" />
-<line x1="1335" y1="426" x2="1344" y2="417" stroke-width="1" stroke="#8ac" />
-<rect x="1331" y="460" width="13" height="7" fill="#4f9" />
-<ellipse cx="910" cy="164" rx="16" ry="16" fill="#341" />
-<ellipse cx="1370" cy="154" rx="15" ry="14" fill="#158" />
-<circle cx="811" cy="817" r="2" fill="#d86" />
-<line x1="1600" y1="196" x2="1599" y2="208" stroke-width="1" stroke="#27c" />
-<rect x="757" y="566" width="13" height="11" fill="#777" />
-<line x1="864" y1="292" x2="851" y2="281" stroke-width="5" stroke="#42b" />
-<line x1="1517" y1="802" x2="1521" y2="802" stroke-width="4" stroke="#352" />
-<ellipse cx="682" cy="873" rx="7" ry="6" fill="#e32" />
-<circle cx="1246" cy="1045" r="15" fill="#375" />
-<line x1="1674" y1="34" x2="1664" y2="45" stroke-width="4" stroke="#801" />
-<rect x="1219" y="445" width="8" height="7" fill="#6e1" />
-<line x1="1332" y1="85" x2="1316" y2="98" stroke-width="5" stroke="#1d7" />
-<rect x="13" y="528" width="16" height="14" fill="#e63" />
-<line x1="1468" y1="338" x2="1480" y2="354" stroke-width="1" stroke="#e15" />
-<circle cx="1543" cy="472" r="16" fill="#173" />
-<line x1="855" y1="704" x2="850" y2="709" stroke-width="1" stroke="#e9a" />
-<circle cx="830" cy="25" r="4" fill="#29d" />
-<line x1="1366" y1="808" x2="1365" y2="804" stroke-width="3" stroke="#8bd" />
-<line x1="1405" y1="547" x2="1418" y2="532" stroke-width="3" stroke="#8b0" />
-<ellipse cx="1334" cy="165" rx="11" ry="13" fill="#424" />
-<line x1="59" y1="33" x2="72" y2="24" stroke-width="4" stroke="#6e5" />
-<rect x="1142" y="800" width="9" height="2" fill="#d31" />
-<circle cx="1052" cy="162" r="4" fill="#2ca" />
-<rect x="163" y="243" width="16" height="15" fill="#b11" />
-<rect x="951" y="98" width="0" height="8" fill="#f10" />
-<rect x="558" y="221" width="4" height="9" fill="#d99" />
-<line x1="1365" y1="815" x2="1360" y2="816" stroke-width="3" stroke="#474" />
-<rect x="622" y="120" width="8" height="12" fill="#76c" />
-<circle cx="123" cy="761" r="6" fill="#d16" />
-<circle cx="317" cy="530" r="1" fill="#7fc" />
-<ellipse cx="1840" cy="774" rx="1" ry="3" fill="#37f" />
-<ellipse cx="1687" cy="465" rx="12" ry="9" fill="#715" />
-<circle cx="228" cy="429" r="2" fill="#dba" />
-<ellipse cx="1040" cy="988" rx="11" ry="11" fill="#229" />
-<circle cx="423" cy="333" r="15" fill="#6df" />
-<line x1="712" y1="952" x2="702" y2="959" stroke-width="4" stroke="#810" />
-<ellipse cx="1236" cy="553" rx="3" ry="1" fill="#fc6" />
-<circle cx="473" cy="246" r="8" fill="#ae3" />
-<rect x="1630" y="627" width="12" height="15" fill="#e15" />
-<circle cx="298" cy="642" r="5" fill="#27f" />
-<ellipse cx="342" cy="299" rx="11" ry="13" fill="#810" />
-<rect x="588" y="750" width="8" height="0" fill="#6bf" />
-<rect x="1578" y="939" width="10" height="14" fill="#56c" />
-<ellipse cx="1849" cy="174" rx="4" ry="9" fill="#da1" />
-<circle cx="239" cy="1018" r="1" fill="#e23" />
-<ellipse cx="1693" cy="843" rx="1" ry="5" fill="#5a6" />
-<rect x="699" y="145" width="6" height="3" fill="#00b" />
-<circle cx="1773" cy="390" r="6" fill="#d02" />
-<rect x="1458" y="651" width="4" height="13" fill="#609" />
-<circle cx="38" cy="328" r="6" fill="#8b5" />
-<ellipse cx="1320" cy="188" rx="6" ry="8" fill="#745" />
-<rect x="1810" y="935" width="8" height="6" fill="#bcc" />
-<circle cx="681" cy="867" r="9" fill="#c93" />
-<ellipse cx="1897" cy="373" rx="7" ry="2" fill="#d77" />
-<line x1="1255" y1="8" x2="1259" y2="18" stroke-width="3" stroke="#440" />
-<rect x="1434" y="732" width="12" height="7" fill="#2b5" />
-<circle cx="1296" cy="463" r="3" fill="#8f7" />
-<rect x="720" y="64" width="3" height="10" fill="#a59" />
-<rect x="1908" y="174" width="16" height="8" fill="#b84" />
-<ellipse cx="1711" cy="571" rx="2" ry="8" fill="#dc7" />
-<circle cx="1696" cy="551" r="1" fill="#5d6" />
-<rect x="1259" y="1003" width="11" height="14" fill="#10d" />
-<rect x="218" y="27" width="5" height="6" fill="#e6a" />
-<circle cx="541" cy="17" r="9" fill="#56b" />
-<line x1="1694" y1="215" x2="1694" y2="224" stroke-width="3" stroke="#08a" />
-<line x1="898" y1="768" x2="906" y2="755" stroke-width="4" stroke="#3a4" />
-<line x1="159" y1="538" x2="151" y2="526" stroke-width="4" stroke="#6ec" />
-<circle cx="1865" cy="389" r="12" fill="#241" />
-<line x1="51" y1="155" x2="40" y2="163" stroke-width="5" stroke="#0a7" />
-<ellipse cx="1357" cy="519" rx="2" ry="6" fill="#e68" />
-<ellipse cx="950" cy="692" rx="3" ry="12" fill="#183" />
-<circle cx="845" cy="569" r="15" fill="#b2f" />
-<ellipse cx="1776" cy="972" rx="12" ry="2" fill="#b09" />
-<rect x="1198" y="508" width="14" height="6" fill="#c8e" />
-<circle cx="857" cy="1046" r="7" fill="#1df" />
-<rect x="1505" y="826" width="7" height="2" fill="#17c" />
-<line x1="860" y1="24" x2="861" y2="15" stroke-width="1" stroke="#04c" />
-<ellipse cx="478" cy="541" rx="11" ry="5" fill="#277" />
-<circle cx="1403" cy="771" r="16" fill="#fd4" />
-<circle cx="13" cy="809" r="1" fill="#eb2" />
-<rect x="69" y="481" width="0" height="13" fill="#202" />
-<line x1="772" y1="811" x2="779" y2="800" stroke-width="3" stroke="#f7b" />
-<ellipse cx="812" cy="96" rx="7" ry="3" fill="#947" />
-<rect x="565" y="690" width="10" height="13" fill="#aa8" />
-<rect x="1073" y="701" width="7" height="15" fill="#689" />
-<line x1="1510" y1="866" x2="1517" y2="872" stroke-width="2" stroke="#277" />
-<ellipse cx="1336" cy="931" rx="15" ry="7" fill="#01a" />
-<ellipse cx="1837" cy="108" rx="9" ry="14" fill="#edb" />
-<ellipse cx="1552" cy="606" rx="9" ry="7" fill="#c86" />
-<circle cx="222" cy="981" r="12" fill="#356" />
-<line x1="727" y1="768" x2="733" y2="776" stroke-width="5" stroke="#356" />
-<rect x="1302" y="1058" width="4" height="9" fill="#83e" />
-<circle cx="90" cy="184" r="9" fill="#129" />
-<ellipse cx="922" cy="495" rx="15" ry="16" fill="#0a6" />
-<circle cx="1778" cy="463" r="14" fill="#ea9" />
-<circle cx="1116" cy="192" r="9" fill="#76b" />
-<rect x="1362" y="891" width="11" height="9" fill="#7ae" />
-<rect x="171" y="671" width="15" height="0" fill="#992" />
-<line x1="180" y1="240" x2="189" y2="230" stroke-width="4" stroke="#18c" />
-<rect x="1765" y="648" width="13" height="16" fill="#d2d" />
-<line x1="1830" y1="119" x2="1832" y2="104" stroke-width="1" stroke="#ab8" />
-<ellipse cx="694" cy="665" rx="15" ry="10" fill="#fee" />
-<circle cx="1737" cy="88" r="4" fill="#251" />
-<line x1="1262" y1="979" x2="1255" y2="966" stroke-width="4" stroke="#a57" />
-<rect x="733" y="37" width="11" height="16" fill="#360" />
-<rect x="456" y="84" width="5" height="11" fill="#2c1" />
-<circle cx="856" cy="559" r="11" fill="#451" />
-<ellipse cx="1266" cy="485" rx="3" ry="4" fill="#9eb" />
-<circle cx="1714" cy="989" r="3" fill="#94f" />
-<ellipse cx="1129" cy="234" rx="5" ry="9" fill="#ee9" />
-<ellipse cx="21" cy="1059" rx="12" ry="2" fill="#99c" />
-<ellipse cx="1610" cy="660" rx="8" ry="4" fill="#f5b" />
-<ellipse cx="1764" cy="931" rx="12" ry="8" fill="#8a9" />
-<ellipse cx="1883" cy="618" rx="14" ry="8" fill="#bad" />
-<line x1="1228" y1="311" x2="1231" y2="307" stroke-width="1" stroke="#a49" />
-<line x1="50" y1="969" x2="54" y2="969" stroke-width="3" stroke="#c45" />
-<rect x="215" y="854" width="9" height="15" fill="#a8f" />
-<rect x="104" y="1007" width="1" height="2" fill="#015" />
-<circle cx="1165" cy="418" r="14" fill="#c18" />
-<line x1="536" y1="389" x2="540" y2="403" stroke-width="4" stroke="#cd9" />
-<line x1="1092" y1="978" x2="1100" y2="992" stroke-width="3" stroke="#17a" />
-<rect x="263" y="953" width="8" height="8" fill="#6b9" />
-<rect x="787" y="912" width="9" height="13" fill="#85a" />
-<circle cx="833" cy="58" r="1" fill="#97d" />
-<line x1="768" y1="920" x2="753" y2="907" stroke-width="5" stroke="#fc1" />
-<rect x="1525" y="582" width="10" height="9" fill="#c8c" />
-<ellipse cx="1895" cy="729" rx="12" ry="8" fill="#ce7" />
-<rect x="1401" y="89" width="14" height="3" fill="#7c6" />
-<circle cx="1771" cy="553" r="13" fill="#4b9" />
-<circle cx="1550" cy="971" r="3" fill="#b78" />
-<circle cx="511" cy="384" r="12" fill="#9cc" />
-<line x1="610" y1="215" x2="609" y2="199" stroke-width="1" stroke="#dc6" />
-<line x1="1475" y1="687" x2="1468" y2="675" stroke-width="3" stroke="#137" />
-<rect x="1862" y="766" width="8" height="10" fill="#403" />
-<line x1="1341" y1="236" x2="1349" y2="242" stroke-width="2" stroke="#003" />
-<line x1="155" y1="910" x2="170" y2="918" stroke-width="5" stroke="#945" />
-<line x1="1819" y1="910" x2="1824" y2="915" stroke-width="5" stroke="#d44" />
-<ellipse cx="694" cy="418" rx="2" ry="10" fill="#aff" />
-<rect x="599" y="650" width="12" height="13" fill="#a2f" />
-<line x1="279" y1="509" x2="289" y2="523" stroke-width="5" stroke="#9e2" />
-<ellipse cx="861" cy="719" rx="10" ry="1" fill="#f87" />
-<rect x="117" y="171" width="5" height="7" fill="#eb0" />
-<rect x="940" y="900" width="8" height="4" fill="#520" />
-<circle cx="657" cy="972" r="14" fill="#e1b" />
-<line x1="1867" y1="441" x2="1863" y2="454" stroke-width="5" stroke="#fa8" />
-<rect x="1606" y="977" width="0" height="15" fill="#7d1" />
-<line x1="1312" y1="824" x2="1318" y2="817" stroke-width="4" stroke="#678" />
-<circle cx="288" cy="964" r="11" fill="#f7c" />
-<line x1="1362" y1="430" x2="1359" y2="445" stroke-width="3" stroke="#aab" />
-<line x1="336" y1="468" x2="350" y2="482" stroke-width="5" stroke="#68a" />
-<ellipse cx="727" cy="11" rx="15" ry="2" fill="#9c0" />
-<ellipse cx="545" cy="22" rx="10" ry="11" fill="#af7" />
-<ellipse cx="58" cy="958" rx="13" ry="8" fill="#6cc" />
-<circle cx="591" cy="807" r="12" fill="#161" />
-<ellipse cx="1453" cy="159" rx="11" ry="6" fill="#bdd" />
-<rect x="1153" y="677" width="14" height="1" fill="#ff2" />
-<line x1="1240" y1="328" x2="1237" y2="328" stroke-width="5" stroke="#260" />
-<circle cx="244" cy="562" r="4" fill="#405" />
-<ellipse cx="1164" cy="718" rx="3" ry="14" fill="#ffe" />
-<ellipse cx="707" cy="427" rx="5" ry="7" fill="#413" />
-<rect x="1661" y="664" width="9" height="9" fill="#7d1" />
-<ellipse cx="39" cy="1070" rx="16" ry="12" fill="#fb6" />
-<rect x="38" y="406" width="4" height="11" fill="#34d" />
-<line x1="1578" y1="815" x2="1586" y2="800" stroke-width="3" stroke="#8f7" />
-<circle cx="1420" cy="777" r="13" fill="#25e" />
-<rect x="333" y="624" width="9" height="1" fill="#5bd" />
-<rect x="545" y="1022" width="10" height="13" fill="#1bf" />
-<line x1="1628" y1="397" x2="1614" y2="392" stroke-width="1" stroke="#bbc" />
-<circle cx="697" cy="677" r="3" fill="#1d8" />
-<rect x="68" y="1067" width="3" height="4" fill="#ab0" />
-<line x1="275" y1="790" x2="259" y2="791" stroke-width="3" stroke="#735" />
-<ellipse cx="1712" cy="1048" rx="7" ry="14" fill="#7bb" />
-<circle cx="191" cy="929" r="5" fill="#432" />
-<circle cx="831" cy="717" r="5" fill="#48e" />
-<rect x="1881" y="608" width="13" height="8" fill="#26e" />
-<line x1="732" y1="205" x2="746" y2="197" stroke-width="4" stroke="#105" />
-<circle cx="554" cy="157" r="1" fill="#c37" />
-<rect x="758" y="462" width="3" height="9" fill="#547" />
-<rect x="690" y="250" width="6" height="16" fill="#330" />
-<rect x="855" y="978" width="0" height="6" fill="#d8f" />
-<rect x="1127" y="584" width="5" height="5" fill="#60d" />
-<ellipse cx="1810" cy="961" rx="14" ry="10" fill="#1ea" />
-<ellipse cx="177" cy="266" rx="9" ry="4" fill="#8df" />
-<line x1="721" y1="518" x2="719" y2="532" stroke-width="4" stroke="#ee3" />
-<line x1="1301" y1="397" x2="1285" y2="387" stroke-width="1" stroke="#286" />
-<rect x="963" y="638" width="2" height="4" fill="#c5b" />
-<line x1="1604" y1="526" x2="1618" y2="520" stroke-width="5" stroke="#995" />
-<ellipse cx="1542" cy="423" rx="4" ry="12" fill="#350" />
-<line x1="317" y1="60" x2="315" y2="70" stroke-width="2" stroke="#45f" />
-<rect x="39" y="757" width="5" height="2" fill="#d53" />
-<line x1="150" y1="837" x2="154" y2="835" stroke-width="3" stroke="#fe2" />
-<line x1="829" y1="630" x2="834" y2="623" stroke-width="3" stroke="#29b" />
-<line x1="639" y1="445" x2="623" y2="443" stroke-width="3" stroke="#e48" />
-<ellipse cx="266" cy="642" rx="8" ry="11" fill="#a1e" />
-<ellipse cx="1791" cy="610" rx="7" ry="14" fill="#8c9" />
-<rect x="717" y="182" width="16" height="1" fill="#c04" />
-<line x1="722" y1="827" x2="715" y2="835" stroke-width="3" stroke="#ca7" />
-<line x1="1126" y1="759" x2="1113" y2="772" stroke-width="2" stroke="#1a4" />
-<rect x="1121" y="256" width="2" height="12" fill="#719" />
-<circle cx="1619" cy="416" r="14" fill="#6da" />
-<rect x="1700" y="801" width="1" height="1" fill="#80b" />
-<ellipse cx="815" cy="577" rx="2" ry="11" fill="#95c" />
-<ellipse cx="518" cy="295" rx="4" ry="10" fill="#fa8" />
-<ellipse cx="953" cy="350" rx="5" ry="6" fill="#0a4" />
-<circle cx="319" cy="130" r="1" fill="#d37" />
-<circle cx="1783" cy="1057" r="4" fill="#a23" />
-<ellipse cx="480" cy="433" rx="15" ry="7" fill="#c1c" />
-<ellipse cx="543" cy="885" rx="2" ry="7" fill="#889" />
-<line x1="1360" y1="874" x2="1353" y2="862" stroke-width="1" stroke="#155" />
-<line x1="962" y1="624" x2="954" y2="637" stroke-width="3" stroke="#36e" />
-<line x1="1253" y1="539" x2="1248" y2="542" stroke-width="1" stroke="#f76" />
-<line x1="705" y1="383" x2="720" y2="370" stroke-width="4" stroke="#243" />
-<ellipse cx="1552" cy="795" rx="5" ry="1" fill="#682" />
-<ellipse cx="715" cy="1004" rx="15" ry="8" fill="#2f9" />
-<rect x="1455" y="356" width="5" height="15" fill="#19b" />
-<ellipse cx="945" cy="234" rx="1" ry="7" fill="#f02" />
-<ellipse cx="1098" cy="812" rx="13" ry="9" fill="#956" />
-<ellipse cx="1535" cy="312" rx="10" ry="16" fill="#a7a" />
-<circle cx="119" cy="882" r="7" fill="#6bd" />
-<line x1="1415" y1="922" x2="1419" y2="910" stroke-width="2" stroke="#bfb" />
-<rect x="102" y="349" width="3" height="8" fill="#729" />
-<rect x="895" y="759" width="1" height="16" fill="#8e8" />
-<ellipse cx="1837" cy="639" rx="7" ry="15" fill="#619" />
-<ellipse cx="216" cy="741" rx="5" ry="1" fill="#dce" />
-<rect x="1276" y="739" width="8" height="6" fill="#f3f" />
-<rect x="1013" y="527" width="15" height="7" fill="#901" />
-<ellipse cx="120" cy="235" rx="5" ry="6" fill="#6ba" />
-<circle cx="896" cy="862" r="4" fill="#f17" />
-<ellipse cx="709" cy="795" rx="8" ry="8" fill="#c86" />
-<line x1="171" y1="371" x2="175" y2="378" stroke-width="3" stroke="#77e" />
-<ellipse cx="1294" cy="593" rx="1" ry="5" fill="#d50" />
-<rect x="944" y="325" width="11" height="10" fill="#8da" />
-<circle cx="1010" cy="680" r="8" fill="#6cf" />
-<circle cx="1909" cy="804" r="12" fill="#e47" />
-<circle cx="1795" cy="848" r="16" fill="#c9f" />
-<circle cx="1509" cy="380" r="14" fill="#0ed" />
-<ellipse cx="1143" cy="90" rx="6" ry="2" fill="#722" />
-<rect x="7" y="97" width="3" height="12" fill="#4b5" />
-<rect x="21" y="801" width="6" height="5" fill="#60f" />
-<rect x="657" y="700" width="1" height="6" fill="#12a" />
-<rect x="885" y="775" width="13" height="5" fill="#b30" />
-<line x1="1045" y1="910" x2="1029" y2="924" stroke-width="1" stroke="#f96" />
-<rect x="157" y="304" width="6" height="8" fill="#293" />
-<rect x="1146" y="909" width="1" height="14" fill="#c43" />
-<line x1="1068" y1="795" x2="1073" y2="794" stroke-width="3" stroke="#d23" />
-<circle cx="19" cy="301" r="16" fill="#d21" />
-<rect x="1280" y="261" width="4" height="12" fill="#3b5" />
-<line x1="1212" y1="501" x2="1203" y2="512" stroke-width="2" stroke="#041" />
-<line x1="1601" y1="1024" x2="1585" y2="1020" stroke-width="1" stroke="#54c" />
-<ellipse cx="162" cy="179" rx="2" ry="13" fill="#d08" />
-<line x1="611" y1="148" x2="602" y2="140" stroke-width="1" stroke="#287" />
-<line x1="1062" y1="888" x2="1046" y2="878" stroke-width="1" stroke="#cab" />
-<ellipse cx="405" cy="708" rx="1" ry="16" fill="#14b" />
-<ellipse cx="1769" cy="608" rx="16" ry="10" fill="#b4c" />
-<circle cx="1059" cy="549" r="16" fill="#2c6" />
-<rect x="144" y="629" width="10" height="10" fill="#d78" />
-<ellipse cx="478" cy="342" rx="1" ry="16" fill="#809" />
-<circle cx="1598" cy="597" r="6" fill="#dc5" />
+<rect x="397" y="542" width="19" height="8" fill="#6f5" />
+<polygon points="450,321 447,329 441,335 432,338 424,335 418,329 416,320 418,312 424,306 433,304 441,306 447,312" fill="#14f" stroke-width="3" />
+<circle cx="234" cy="146" r="11" fill="#964" />
+<polygon points="1717,49 1711,56 1702,53 1702,44 1711,41" fill="#25f" stroke-width="1" />
+<polygon points="189,85 183,98 169,104 156,98 151,84 156,71 170,66 183,71" fill="#6b2" stroke-width="3" /><polygon points="187,92 177,102 162,102 152,92 152,77 162,67 177,67 187,77" fill="#6b2" stroke-width="3" />
+<polygon points="593,385 588,389 585,384 589,381" fill="#d16" stroke-width="5" />
+<polygon points="692,12 684,19 678,11 685,5" fill="#991" stroke-width="4" />
+<polygon points="743,96 736,102 731,95 737,90" fill="#fec" stroke-width="2" /><polygon points="741,100 732,100 732,91 741,91" fill="#fec" stroke-width="2" />
+<ellipse cx="1771" cy="1038" rx="3" ry="11" fill="#920" />
+<line x1="247" y1="76" x2="241" y2="72" stroke-width="4" stroke="#6de" />
+<polygon points="1048,928" fill="#e27" stroke-width="4" /><polygon points="1036,927" fill="#e27" stroke-width="4" />
+<polygon points="1328,178 1327,180 1324,181 1321,181 1320,179 1320,176 1322,174 1324,174 1327,175" fill="#be4" stroke-width="1" />
+<circle cx="1469" cy="821" r="9" fill="#c8a" />
+<ellipse cx="375" cy="920" rx="20" ry="4" fill="#9b7" />
+<polygon points="1755,557 1749,566 1738,566 1733,556 1738,547 1749,547" fill="#869" stroke-width="1" /><polygon points="1753,562 1743,568 1734,562 1734,551 1744,546 1753,551" fill="#869" stroke-width="1" />
+<polygon points="49,590 48,590 47,591 47,590 47,589 47,589 48,589 48,589" fill="#e24" stroke-width="1" />
+<circle cx="29" cy="1065" r="18" fill="#408" />
+<polygon points="461,325 450,335 441,324 451,315" fill="#d57" stroke-width="2" /><polygon points="458,332 443,332 443,317 458,317" fill="#d57" stroke-width="2" />
+<ellipse cx="863" cy="1060" rx="14" ry="8" fill="#436" />
+<polygon points="929,533" fill="#80f" stroke-width="4" /><polygon points="923,532" fill="#80f" stroke-width="4" />
+<polygon points="813,541 806,549 796,546 796,535 806,532" fill="#09d" stroke-width="5" /><polygon points="811,546 801,549 795,540 801,532 811,535" fill="#09d" stroke-width="5" />
+<ellipse cx="117" cy="1037" rx="1" ry="8" fill="#f45" />
+<polygon points="640,465 636,473 627,477 619,473 616,464 619,456 628,453 636,456" fill="#961" stroke-width="2" /><polygon points="639,469 632,476 623,476 616,469 616,460 623,453 632,453 639,460" fill="#961" stroke-width="2" />
+<rect x="1699" y="394" width="15" height="17" fill="#49c" />
+<circle cx="1449" cy="328" r="15" fill="#7d6" />
+<rect x="1451" y="916" width="2" height="3" fill="#343" />
+<polygon points="562,17 548,24 548,9" fill="#fe1" stroke-width="3" />
+<rect x="1666" y="134" width="4" height="14" fill="#06a" />
+<circle cx="1844" cy="366" r="2" fill="#bec" />
+<rect x="726" y="685" width="10" height="15" fill="#7d4" />
+<line x1="298" y1="845" x2="289" y2="841" stroke-width="4" stroke="#5f7" />
+<ellipse cx="1910" cy="531" rx="16" ry="3" fill="#631" />
+<polygon points="358,362 356,364 353,364 352,361 353,359 356,359" fill="#38d" stroke-width="3" /><polygon points="357,363 354,365 352,363 352,360 355,359 357,360" fill="#38d" stroke-width="3" />
+<ellipse cx="411" cy="93" rx="11" ry="5" fill="#02f" />
+<rect x="1438" y="54" width="13" height="1" fill="#de0" />
+<polygon points="699,1051 698,1053 695,1054 693,1053 693,1050 693,1048 696,1048 698,1048" fill="#230" stroke-width="1" /><polygon points="698,1052 697,1053 694,1053 693,1052 693,1049 694,1048 697,1048 698,1049" fill="#230" stroke-width="1" />
+<circle cx="1391" cy="1076" r="20" fill="#25b" />
+<polygon points="1749,775 1741,779 1741,770" fill="#2da" stroke-width="5" />
+<polygon points="229,576 228,577 228,578 226,578 225,578 224,578 223,577 223,576 223,575 223,574 224,573 225,573 226,573 228,573 228,574" fill="#c5d" stroke-width="1" />
+<polygon points="1468,628 1467,629 1466,631 1464,632 1462,633 1461,632 1459,631 1458,629 1458,627 1458,626 1459,624 1461,623 1463,623 1464,623 1466,624 1467,626" fill="#5d0" stroke-width="2" />
+<rect x="416" y="788" width="4" height="1" fill="#8ca" />
+<ellipse cx="543" cy="802" rx="13" ry="11" fill="#3b5" />
+<line x1="1536" y1="32" x2="1549" y2="29" stroke-width="4" stroke="#419" />
+<ellipse cx="383" cy="983" rx="2" ry="12" fill="#1ec" />
+<polygon points="633,795 632,798 630,800 627,801 624,801 621,800 619,798 619,794 619,791 621,789 624,788 627,788 630,789 632,791" fill="#991" stroke-width="3" />
+<polygon points="1090,684 1085,696 1072,701 1060,696 1056,683 1060,671 1073,667 1085,671" fill="#64b" stroke-width="4" />
+<rect x="1857" y="771" width="17" height="7" fill="#8cf" />
+<circle cx="249" cy="298" r="13" fill="#e40" />
+<ellipse cx="569" cy="422" rx="6" ry="20" fill="#b7d" />
+<rect x="1860" y="81" width="14" height="18" fill="#6f5" />
+<polygon points="1479,404 1472,418 1456,421 1444,411 1444,396 1456,386 1472,389" fill="#fd6" stroke-width="4" />
+<ellipse cx="494" cy="927" rx="3" ry="3" fill="#c78" />
+<line x1="318" y1="227" x2="319" y2="239" stroke-width="3" stroke="#346" />
+<polygon points="1628,343" fill="#ea2" stroke-width="4" /><polygon points="1612,342" fill="#ea2" stroke-width="4" />
+<rect x="1037" y="1008" width="13" height="5" fill="#64f" />
+<ellipse cx="1252" cy="287" rx="2" ry="19" fill="#ce4" />
+<polygon points="1765,1017 1751,1016" fill="#8c0" stroke-width="1" /><polygon points="1757,1024 1758,1010" fill="#8c0" stroke-width="1" />
+<ellipse cx="1734" cy="380" rx="3" ry="12" fill="#559" />
+<circle cx="326" cy="26" r="15" fill="#802" />
+<polygon points="768,469 766,468" fill="#8f8" stroke-width="5" /><polygon points="766,470 767,468" fill="#8f8" stroke-width="5" />
+<line x1="1476" y1="251" x2="1460" y2="247" stroke-width="3" stroke="#4fb" />
+<polygon points="757,896 752,905 742,910 733,905 729,895 733,886 743,882 752,886" fill="#923" stroke-width="5" /><polygon points="755,901 748,908 737,908 730,901 730,890 737,883 748,883 755,890" fill="#923" stroke-width="5" />
+<polygon points="243,886 239,893 231,897 224,893 221,885 224,878 232,875 239,878" fill="#b4f" stroke-width="3" /><polygon points="242,890 236,896 227,896 221,890 221,881 227,875 236,875 242,881" fill="#b4f" stroke-width="3" />
+<circle cx="1819" cy="289" r="6" fill="#5a2" />
+<rect x="1040" y="486" width="14" height="2" fill="#229" />
+<ellipse cx="1510" cy="616" rx="11" ry="6" fill="#f73" />
+<circle cx="1707" cy="259" r="8" fill="#d63" />
+<line x1="1532" y1="269" x2="1540" y2="259" stroke-width="2" stroke="#9a6" />
+<polygon points="532,402 530,407 527,411 523,414 517,416 512,414 508,411 505,407 504,401 505,396 508,392 512,389 518,388 523,389 527,392 530,396" fill="#3f3" stroke-width="2" />
+<line x1="377" y1="10" x2="367" y2="-9" stroke-width="4" stroke="#a03" />
+<line x1="866" y1="444" x2="860" y2="426" stroke-width="4" stroke="#7c7" />
+<rect x="30" y="272" width="5" height="2" fill="#ee7" />
+<polygon points="404,601 402,601 402,600" fill="#4e8" stroke-width="3" /><polygon points="403,601 402,600 403,600" fill="#4e8" stroke-width="3" />
+<polygon points="602,581 593,595 576,595 568,580 576,566 593,566" fill="#1ff" stroke-width="5" />
+<ellipse cx="1510" cy="445" rx="10" ry="7" fill="#6dc" />
+<circle cx="942" cy="55" r="10" fill="#de9" />
+<circle cx="1387" cy="36" r="17" fill="#abb" />
+<polygon points="1924,1071 1911,1088 1891,1081 1891,1060 1911,1053" fill="#c71" stroke-width="5" /><polygon points="1920,1081 1900,1088 1888,1070 1900,1053 1920,1060" fill="#c71" stroke-width="5" />
+<circle cx="1312" cy="742" r="6" fill="#545" />
+<rect x="662" y="921" width="0" height="5" fill="#e7e" />
+<polygon points="1056,373" fill="#ddf" stroke-width="1" /><polygon points="1018,372" fill="#ddf" stroke-width="1" />
+<ellipse cx="769" cy="138" rx="10" ry="3" fill="#b95" />
+<circle cx="559" cy="665" r="8" fill="#1b5" />
+<circle cx="1210" cy="1013" r="11" fill="#eff" />
+<ellipse cx="1143" cy="497" rx="1" ry="7" fill="#be9" />
+<polygon points="777,381 751,395 751,366" fill="#323" stroke-width="4" />
+<polygon points="1250,110 1245,115 1239,113 1239,106 1245,104" fill="#f83" stroke-width="3" /><polygon points="1248,113 1242,115 1238,109 1242,104 1248,106" fill="#f83" stroke-width="3" />
+<polygon points="970,879 966,886 958,890 951,886 948,878 951,871 959,868 966,871" fill="#626" stroke-width="1" /><polygon points="969,883 963,889 954,889 948,883 948,874 954,868 963,868 969,874" fill="#626" stroke-width="1" />
+<rect x="1619" y="431" width="13" height="17" fill="#763" />
+<ellipse cx="734" cy="624" rx="7" ry="14" fill="#764" />
+<polygon points="17,211 15,218 10,224 3,227 -4,227 -11,224 -16,218 -17,210 -16,203 -11,197 -4,194 3,194 10,197 15,203" fill="#5d1" stroke-width="5" />
+<line x1="292" y1="478" x2="298" y2="475" stroke-width="1" stroke="#328" />
+<polygon points="1663,261 1658,263 1658,258" fill="#19f" stroke-width="3" />
+<polygon points="1035,803 1034,806 1031,808 1028,809 1025,808 1023,806 1023,802 1023,799 1026,797 1029,797 1031,797 1034,800" fill="#420" stroke-width="1" />
+<ellipse cx="1342" cy="199" rx="4" ry="9" fill="#747" />
+<line x1="1558" y1="210" x2="1567" y2="198" stroke-width="5" stroke="#491" />
+<ellipse cx="1832" cy="1010" rx="5" ry="18" fill="#185" />
+<polygon points="654,942 641,959 621,952 621,931 641,924" fill="#2b7" stroke-width="2" /><polygon points="650,952 630,959 618,941 630,924 650,931" fill="#2b7" stroke-width="2" />
+<line x1="1761" y1="183" x2="1776" y2="202" stroke-width="3" stroke="#ae0" />
+<polygon points="989,577 985,582 979,582 977,576 980,571 985,571" fill="#324" stroke-width="3" /><polygon points="988,580 982,583 977,580 977,573 983,571 988,574" fill="#324" stroke-width="3" />
+<ellipse cx="37" cy="919" rx="19" ry="8" fill="#845" />
+<circle cx="75" cy="195" r="2" fill="#821" />
+<ellipse cx="1590" cy="706" rx="11" ry="2" fill="#1fc" />
+<circle cx="1817" cy="710" r="11" fill="#f9f" />
+<ellipse cx="1688" cy="680" rx="16" ry="12" fill="#117" />
+<line x1="808" y1="388" x2="814" y2="396" stroke-width="4" stroke="#994" />
+<ellipse cx="121" cy="471" rx="16" ry="13" fill="#6b2" />
+<rect x="1195" y="373" width="4" height="2" fill="#abf" />
+<rect x="330" y="1029" width="19" height="1" fill="#eb7" />
+<polygon points="1258,345 1256,352 1251,359 1244,362 1235,362 1228,359 1223,352 1222,344 1223,337 1228,330 1235,327 1244,327 1251,330 1256,337" fill="#7e8" stroke-width="1" />
+<line x1="1715" y1="613" x2="1727" y2="628" stroke-width="2" stroke="#105" />
+<circle cx="1916" cy="107" r="2" fill="#d07" />
+<ellipse cx="1469" cy="557" rx="20" ry="15" fill="#296" />
+<line x1="539" y1="690" x2="532" y2="705" stroke-width="5" stroke="#129" />
+<ellipse cx="1680" cy="166" rx="15" ry="5" fill="#181" />
+<polygon points="314,1073 278,1072" fill="#328" stroke-width="3" />
+<line x1="456" y1="826" x2="461" y2="845" stroke-width="4" stroke="#282" />
+<circle cx="1630" cy="1024" r="4" fill="#6a7" />
+<polygon points="203,944" fill="#822" stroke-width="3" /><polygon points="163,943" fill="#822" stroke-width="3" />
+<polygon points="1463,415 1447,430 1433,414 1448,400" fill="#6fd" stroke-width="1" /><polygon points="1458,425 1437,425 1437,404 1458,404" fill="#6fd" stroke-width="1" />
+<circle cx="446" cy="562" r="11" fill="#08d" />
+<rect x="1424" y="290" width="9" height="8" fill="#2ca" />
+<line x1="1912" y1="154" x2="1907" y2="135" stroke-width="3" stroke="#50a" />
+<circle cx="856" cy="197" r="4" fill="#1de" />
+<polygon points="1820,903 1814,908 1810,902 1815,898" fill="#6e5" stroke-width="1" />
+<line x1="733" y1="652" x2="745" y2="644" stroke-width="5" stroke="#e12" />
+<line x1="722" y1="466" x2="712" y2="454" stroke-width="4" stroke="#90b" />
+<ellipse cx="1729" cy="402" rx="11" ry="16" fill="#13e" />
+<circle cx="1455" cy="529" r="13" fill="#55b" />
+<line x1="1192" y1="47" x2="1180" y2="49" stroke-width="2" stroke="#38a" />
+<ellipse cx="1181" cy="895" rx="7" ry="12" fill="#a6a" />
+<rect x="399" y="200" width="12" height="7" fill="#2c1" />
+<polygon points="1675,280 1672,285 1667,288 1661,287 1657,283 1657,276 1661,272 1667,271 1672,274" fill="#033" stroke-width="4" />
+<polygon points="1664,454 1632,453" fill="#8c6" stroke-width="5" /><polygon points="1647,470 1648,438" fill="#8c6" stroke-width="5" />
+<line x1="28" y1="1061" x2="26" y2="1056" stroke-width="3" stroke="#af5" />
+<polygon points="1523,72 1520,81 1513,88 1503,91 1494,88 1487,81 1485,71 1487,62 1494,55 1504,53 1513,55 1520,62" fill="#c8b" stroke-width="4" />
+<circle cx="571" cy="328" r="2" fill="#1ce" />
+<ellipse cx="7" cy="387" rx="11" ry="18" fill="#f12" />
+<circle cx="801" cy="286" r="2" fill="#eea" />
+<polygon points="423,415 417,425 405,428 396,421 396,408 405,401 417,404" fill="#f6c" stroke-width="1" /><polygon points="421,421 412,428 400,425 395,414 400,404 412,401 421,408" fill="#f6c" stroke-width="1" />
+<rect x="719" y="669" width="1" height="15" fill="#df1" />
+<polygon points="103,48 101,54 96,59 89,61 83,59 78,54 77,47 78,41 83,36 90,35 96,36 101,41" fill="#c6f" stroke-width="4" />
+<polygon points="1669,734" fill="#0b6" stroke-width="2" /><polygon points="1641,733" fill="#0b6" stroke-width="2" />
+<ellipse cx="955" cy="460" rx="17" ry="3" fill="#150" />
+<circle cx="704" cy="642" r="15" fill="#6a4" />
+<circle cx="1804" cy="484" r="15" fill="#5e5" />
+<line x1="212" y1="778" x2="194" y2="787" stroke-width="5" stroke="#4e8" />
+<polygon points="41,613 38,622 30,629 20,630 11,626 5,618 5,607 11,599 20,595 30,596 38,603" fill="#0c6" stroke-width="1" />
+<polygon points="602,328 600,334 594,338 588,339 582,337 578,331 578,324 582,318 588,316 594,317 600,321" fill="#906" stroke-width="3" />
+<polygon points="201,1079 187,1086 187,1071" fill="#481" stroke-width="5" />
+<circle cx="1547" cy="94" r="20" fill="#a67" />
+<polygon points="170,985 168,991 164,995 159,998 152,998 147,995 143,991 142,984 143,978 147,974 152,971 159,971 164,974 168,978" fill="#5ac" stroke-width="4" />
+<circle cx="637" cy="346" r="14" fill="#b2f" />
+<ellipse cx="64" cy="614" rx="6" ry="20" fill="#382" />
+<polygon points="1512,626 1508,633 1499,635 1492,630 1492,621 1499,616 1508,618" fill="#24c" stroke-width="2" /><polygon points="1511,630 1504,635 1495,633 1492,625 1495,618 1504,616 1511,621" fill="#24c" stroke-width="2" />
+<polygon points="1624,246 1622,253 1617,260 1610,264 1603,264 1595,262 1589,257 1586,249 1586,242 1589,234 1595,229 1603,227 1610,227 1617,231 1622,238" fill="#c52" stroke-width="2" />
+<ellipse cx="943" cy="268" rx="10" ry="12" fill="#84f" />
+<line x1="1006" y1="636" x2="1018" y2="619" stroke-width="5" stroke="#6fb" />
+<polygon points="1169,689 1166,695 1159,698 1153,695 1151,688 1153,682 1160,680 1166,682" fill="#74c" stroke-width="3" /><polygon points="1168,692 1163,697 1156,697 1151,692 1151,685 1156,680 1163,680 1168,685" fill="#74c" stroke-width="3" />
+<line x1="1814" y1="151" x2="1794" y2="156" stroke-width="2" stroke="#171" />
+<polygon points="337,273" fill="#d25" stroke-width="3" /><polygon points="309,272" fill="#d25" stroke-width="3" />
+<polygon points="1360,963 1359,963 1359,963 1358,963 1358,963 1358,963 1358,962 1358,962 1358,962 1359,962 1359,962" fill="#1d5" stroke-width="3" />
+<polygon points="924,677 918,688 905,691 895,683 895,670 905,662 918,665" fill="#5a9" stroke-width="2" /><polygon points="922,683 912,691 899,688 894,676 899,665 912,662 922,670" fill="#5a9" stroke-width="2" />
+<circle cx="1787" cy="1030" r="19" fill="#f95" />
+<polygon points="456,40 445,46 445,33" fill="#bec" stroke-width="1" /><polygon points="452,46 442,39 452,33" fill="#bec" stroke-width="1" />
+<circle cx="1354" cy="552" r="7" fill="#d6d" />
+<ellipse cx="329" cy="158" rx="18" ry="18" fill="#bd6" />
+<polygon points="318,219 314,220 315,217" fill="#f24" stroke-width="2" />
+<polygon points="1904,137 1900,148 1890,156 1877,156 1867,148 1864,136 1867,125 1877,117 1890,117 1900,125" fill="#a62" stroke-width="3" />
+<rect x="84" y="74" width="11" height="16" fill="#916" />
+<rect x="1577" y="204" width="15" height="11" fill="#44a" />
+<circle cx="995" cy="376" r="7" fill="#350" />
+<rect x="1726" y="581" width="1" height="9" fill="#add" />
+<rect x="151" y="882" width="15" height="8" fill="#59a" />
+<ellipse cx="140" cy="595" rx="7" ry="5" fill="#e26" />
+<line x1="942" y1="816" x2="960" y2="798" stroke-width="5" stroke="#c6f" />
+<ellipse cx="812" cy="244" rx="10" ry="1" fill="#6f0" />
+<polygon points="346,169" fill="#ed2" stroke-width="4" />
+<rect x="1156" y="1056" width="18" height="12" fill="#443" />
+<line x1="1853" y1="430" x2="1840" y2="417" stroke-width="4" stroke="#f0c" />
+<line x1="600" y1="538" x2="582" y2="541" stroke-width="2" stroke="#3d0" />
+<ellipse cx="1886" cy="704" rx="13" ry="17" fill="#f17" />
+<polygon points="73,452 65,464 50,464 43,451 50,439 65,439" fill="#bb5" stroke-width="2" /><polygon points="70,459 57,467 45,459 45,444 58,437 70,444" fill="#bb5" stroke-width="2" />
+<polygon points="228,11 199,27 199,-6" fill="#f02" stroke-width="3" /><polygon points="218,27 190,10 218,-6" fill="#f02" stroke-width="3" />
+<line x1="1085" y1="960" x2="1086" y2="960" stroke-width="2" stroke="#06f" />
+<polygon points="425,904 421,911 413,912 407,907 407,900 413,895 421,896" fill="#03f" stroke-width="2" /><polygon points="424,907 418,912 410,911 407,903 410,896 418,895 424,900" fill="#03f" stroke-width="2" />
+<polygon points="1866,601 1850,616 1836,600 1851,586" fill="#5cb" stroke-width="1" />
+<circle cx="44" cy="52" r="7" fill="#ca9" />
+<ellipse cx="701" cy="595" rx="10" ry="4" fill="#149" />
+<ellipse cx="1638" cy="787" rx="9" ry="11" fill="#d8f" />
+<ellipse cx="278" cy="473" rx="6" ry="7" fill="#fae" />
+<polygon points="1867,211 1865,212 1865,210 1866,210" fill="#e58" stroke-width="3" /><polygon points="1866,211 1865,211 1865,210 1866,210" fill="#e58" stroke-width="3" />
+<line x1="790" y1="619" x2="804" y2="627" stroke-width="1" stroke="#9c3" />
+<line x1="921" y1="1073" x2="912" y2="1054" stroke-width="5" stroke="#381" />
+<ellipse cx="1389" cy="635" rx="7" ry="8" fill="#b9f" />
+<circle cx="551" cy="340" r="18" fill="#451" />
+<rect x="897" y="197" width="7" height="3" fill="#010" />
+<polygon points="315,917 314,918 312,919 310,919 309,918 309,915 310,914 312,914 314,915" fill="#fa4" stroke-width="3" />
+<ellipse cx="852" cy="584" rx="5" ry="17" fill="#a8e" />
+<rect x="331" y="1038" width="10" height="6" fill="#e6b" />
 </svg>

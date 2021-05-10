@@ -57,6 +57,14 @@ render s (FigurePolygon (Polygon points)) =
          ++ " stroke-width=" ++ (quote (styleThickness s))
          ++ " />"
 
+render s (FigureStar (Star points)) = renderPolygon1 ++ renderPolygon2 where
+     renderPolygon1 = render s (FigurePolygon (Polygon polygon1))
+     renderPolygon2 = render s (FigurePolygon (Polygon polygon2))
+     (polygon1,polygon2) = evenOddSplit points
+
+evenOddSplit [] = ([], [])
+evenOddSplit (x:xs) = (x:o, e)
+    where (e,o) = evenOddSplit xs
 
 renderPoints p  = intercalate " " $ fmap renderPoint p
 renderPoint (Point x y) = (show x) ++ ',':(show y)
