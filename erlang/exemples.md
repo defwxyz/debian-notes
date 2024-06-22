@@ -26,3 +26,12 @@ Eshell V12.2.1  (abort with ^G)
 3> 
 ```
 
+Avec plus de tag pour la documentation, comme %% @doc
+
+Et en lançant: 
+
+```
+edoc:files(["factorielle.erl"]).
+```
+
+On obtient un fichier html, comme [celui-là](factorielle.html).

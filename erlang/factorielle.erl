@@ -1,8 +1,11 @@
--module(factorial).
+%% @author defxwyz
+%% @doc exemple de code erlang
+-module(factorielle).
 
--export([run/1]).
+-export([calcul/1]).
 
-run(1) -> 1;
-run(N) when N > 1 -> 
-  run(N-1)*N.
+%% @doc calcul factorielle 
+calcul(1) -> 1;
+calcul(N) when N > 1 -> 
+  calcul(N-1)*N.
 
